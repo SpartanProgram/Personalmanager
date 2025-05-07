@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Virtual environment folders (commonly used names)
+venv/
+env/
+.venv/
+.env/
+
+# Python virtual environment files
+*.egg-info/
+dist/
+build/
+
+# Logs and local databases
+*.log
+*.sqlite3
+
+# OS-specific files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Matplotlib font cache
+.matplotlib/
+
+# Seaborn and other generated cache (if any)
+seaborn-data/
+
+# Jupyter Notebook metadata hidden folders (optional)
+.jupyter/
+
+# Pip cache
+pip-wheel-metadata/
+*.whl

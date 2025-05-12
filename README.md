@@ -15,17 +15,27 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 - **Matplotlib, Seaborn** zur Visualisierung
 - **Faker** zur Generierung von Pseudo-Daten
 
-## Struktur
+## Projektstruktur
 
+```text
 team-10-personalmanager-gfai-bvvi/
-├── README.md/
-├── LICENSE/
-├── data/
-├── src/
-├── tests/
-├── docs/
-└── requirements.txt
+├── README.md              # Projektbeschreibung
+├── LICENSE                # Lizenzinformation
+├── data/                  # Datensätze, Input- & Output-Dateien
+├── src/                   # Quellcode des Projekts
+├── tests/                 # Testfälle
+├── docs/                  # Projektbezogene Dokumentation
+└── requirements.txt       # Liste der Python-Abhängigkeiten
+```
 
+```bash
+# Virtuelle Umgebung erstellen
+python -m venv .venv
+source .venv/bin/activate  # oder .\.venv\Scripts\activate auf Windows
+
+# Abhängigkeiten installieren
+pip install -r requirements.txt
+```
 
 ## Lizenz
 

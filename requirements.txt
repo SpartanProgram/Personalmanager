@@ -1,4 +1,4 @@
-torch==2.7.0
+torch==2.2.2
 scikit-learn==1.6.1
 Faker==37.1.0
 matplotlib==3.10.3

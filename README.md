@@ -17,18 +17,15 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 
 ## Struktur
 
-ki_zuordnung/
-├── preprocessing/
-├── scoring/
-├── optimization/
+team-10-personalmanager-gfai-bvvi/
+├── README.md/
+├── LICENSE/
+├── data/
+├── src/
 ├── tests/
-└── main.py
+├── docs/
+└── requirements.txt
 
-
-## Ausführen
-```bash
-python main.py
-```
 
 ## Lizenz
 

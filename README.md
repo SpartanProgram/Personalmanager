@@ -8,7 +8,6 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 - Prüfung der zeitlichen Verfügbarkeit
 - Kombinierte Bewertung und Optimierung
 
-
 ## Tech Stack
 - **Python 3.11**, PyTorch, scikit-learn, Pandas, NumPy
 - **Visual Studio Code**, Jupyter Notebook
@@ -26,6 +25,12 @@ team-10-personalmanager-gfai-bvvi/
 ├── tests/                 # Testfälle
 ├── docs/                  # Projektbezogene Dokumentation
 └── requirements.txt       # Liste der Python-Abhängigkeiten
+```
+
+```bash
+# VS-Code mit Git verbinden
+git config --global user.email "-->HTW-Mail-Adresse<--"
+git config --global user.name "-->Name<--"
 ```
 
 ```bash

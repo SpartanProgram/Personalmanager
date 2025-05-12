@@ -20,7 +20,7 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 ```text
 team-10-personalmanager-gfai-bvvi/
 ├── README.md              # Projektbeschreibung
-├── LICENSE                # Lizenzinformation
+├── LICENSE.txt                # Lizenzinformation
 ├── data/                  # Datensätze, Input- & Output-Dateien
 ├── src/                   # Quellcode des Projekts
 ├── tests/                 # Testfälle

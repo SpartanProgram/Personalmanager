@@ -19,7 +19,7 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 ```text
 team-10-personalmanager-gfai-bvvi/
 ├── README.md              # Projektbeschreibung
-├── LICENSE.txt                # Lizenzinformation
+├── LICENSE.txt            # Lizenzinformation
 ├── data/                  # Datensätze, Input- & Output-Dateien
 ├── src/                   # Quellcode des Projekts
 ├── tests/                 # Testfälle
@@ -44,4 +44,4 @@ pip install -r requirements.txt
 
 ## Lizenz
 
-Apache License 2.0 – siehe LICENSE-Datei.
+Apache License 2.0 – siehe [LICENSE](https://gitlab.rz.htw-berlin.de/softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi/-/blob/master/LICENSE.txt?ref_type=heads).

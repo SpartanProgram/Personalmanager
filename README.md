@@ -35,7 +35,7 @@ git config --global user.name "-->Name<--"
 
 ```bash
 # Virtuelle Umgebung erstellen
-python3 -m venv .venv
+python3.11 -m venv .venv
 source .venv/bin/activate  # oder .\.venv\Scripts\activate auf Windows
 
 # Abhängigkeiten installieren

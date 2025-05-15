@@ -14,6 +14,7 @@ venv/
 env/
 .venv/
 .env/
+.python-version
 
 # Python virtual environment files
 *.egg-info/

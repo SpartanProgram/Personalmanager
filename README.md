@@ -34,15 +34,14 @@ git config --global user.email "-->HTW-Mail-Adresse<--"
 git config --global user.name "-->Name<--"
 ```
 
-```bash
 # Python-Version
 
-#Dieses Projekt verwendet Python 3.11. Falls du eine andere Python-Version 
-#installiert hast, empfiehlt es sich, pyenv zu verwenden:
+Dieses Projekt verwendet Python 3.11. Falls du eine andere Python-Version 
+installiert hast, empfiehlt es sich, pyenv zu verwenden:
 
-# pyenv installieren (falls noch nicht vorhanden)
-# Anleitung: https://github.com/pyenv/pyenv#installation
-
+pyenv installieren (falls noch nicht vorhanden)
+Anleitung: https://github.com/pyenv/pyenv#installation
+```bash
 # gewünschte Version installieren
 pyenv install 3.11.9
 

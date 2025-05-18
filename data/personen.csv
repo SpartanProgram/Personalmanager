@@ -1,11 +1,11 @@
 id,name,kompetenzen,zeitbudget,verfuegbarkeit_01/2025,verfuegbarkeit_02/2025,verfuegbarkeit_03/2025,verfuegbarkeit_04/2025,verfuegbarkeit_05/2025,verfuegbarkeit_06/2025,verfuegbarkeit_07/2025,verfuegbarkeit_08/2025,verfuegbarkeit_09/2025,verfuegbarkeit_10/2025,verfuegbarkeit_11/2025,verfuegbarkeit_12/2025
-23513173-5ee0-4bb2-af47-f0fc117cc719,Vinko Scholl B.Sc.,"Data Engineering, Softwarearchitektur",0.61,0.32,0.45,0.95,0.19,0.24,0.04,0.83,0.48,0.81,0.88,0.97,0.42
-1d648893-6029-4e61-954c-1b64df508dbd,Dipl.-Ing. Edeltrud Rosemann MBA.,"Statistik, NLP",0.84,0.81,0.46,0.6,0.26,0.87,0.35,0.41,0.55,0.41,0.37,0.83,0.87
-54d4bf8e-80cf-4e6a-88eb-f881186a67ae,Ernst Sager,"NLP, Machine Learning",0.96,0.09,0.54,0.24,0.6,0.82,0.42,0.96,0.2,0.41,0.63,0.56,0.02
-ddb9b7ce-1c14-40b9-a409-52519cc50f03,Cosimo Hornig,"Data Engineering, Machine Learning",0.98,0.58,0.25,0.09,0.37,0.3,0.28,0.69,1.0,0.44,0.61,0.45,0.74
-901acd26-f7e5-4778-bebf-361ba6664b72,Frau Amelie Bohnbach,"Statistik, Softwarearchitektur, Machine Learning",0.87,0.68,0.45,0.52,0.38,0.62,0.8,0.39,0.59,0.17,0.65,0.22,0.85
-00f2e0e6-ba7f-4e63-a5c5-fb59621f38bb,Ing. Juan Döhn,"NLP, Softwarearchitektur",0.84,0.57,0.78,0.17,0.53,0.91,0.5,0.7,0.89,0.47,0.01,0.54,0.4
-24be5cea-e86b-48eb-9aa3-626d39187527,James Buchholz-Kühnert,"Data Engineering, NLP, Softwarearchitektur",0.82,0.14,0.74,0.95,0.99,0.08,0.86,0.56,0.85,0.1,0.78,0.74,0.79
-bf393864-9da4-4528-901c-8ad073caf766,Elfriede Keudel,Softwarearchitektur,0.81,0.33,0.19,0.64,0.53,0.54,0.31,0.06,0.17,0.74,0.28,0.68,0.67
-d259adfb-dbbb-41d7-bc2e-1879dbf1c55f,Gert Hentschel,"Data Engineering, Machine Learning, Statistik",0.58,0.82,0.75,0.64,0.48,0.92,0.31,0.92,0.51,0.32,0.3,0.83,0.05
-ce8b4640-a4ad-4924-b770-1534c0f992c0,Prof. Clarissa Seip,Statistik,0.56,0.45,0.78,0.04,0.9,0.42,0.89,0.84,0.73,0.85,0.41,0.21,0.87
+5b3c26c0-d0f7-4700-a1ec-27ad7985ec72,Karl-Ludwig Mitschke,Softwarearchitektur,0.66,0.74,0.96,0.59,0.35,0.44,0.95,0.91,0.56,0.47,0.44,0.6,0.79
+727e78d5-384e-49b8-b1f3-269545d5df57,Ing. Madlen Ladeck,"Data Engineering, NLP, Softwarearchitektur",0.68,0.37,0.33,0.97,0.67,0.62,0.55,0.64,0.43,0.85,0.4,0.56,0.33
+f00a4015-c311-42e0-8065-3ad49fbd2f67,Hans-Hinrich Segebahn-Schmidtke,Statistik,0.54,0.6,0.64,0.69,0.92,0.73,0.71,0.44,0.98,0.62,0.47,0.41,0.69
+0d6bc99a-d9d5-4ef4-b013-f854ab80ae8c,Jolanta Reising-Weller,"Softwarearchitektur, Data Engineering, NLP",0.95,0.88,0.47,0.75,0.87,0.74,0.33,0.37,0.77,0.9,0.32,0.38,0.37
+cd9fbc06-ff92-4bb7-8a6c-f89f2f8eb6ee,Songül Jockel,"NLP, Data Engineering, Softwarearchitektur",0.96,0.76,0.88,0.69,0.97,0.37,0.75,0.3,0.81,0.68,0.6,0.37,0.31
+4a02551b-5bf1-4981-b7d2-c005b50ebeb2,Nadeshda Kreusel,Data Engineering,0.59,0.81,0.8,0.38,0.6,0.94,0.45,0.32,0.7,0.48,0.3,0.52,0.97
+2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,"Statistik, Softwarearchitektur",0.86,0.96,0.53,0.75,0.54,0.61,0.75,0.77,0.81,0.74,0.47,0.69,0.94
+f189f9e1-7213-428b-aad2-ea662ac7002e,Olav Etzold,"NLP, Statistik, Data Engineering",0.82,0.62,0.69,0.55,0.66,0.35,0.65,0.33,0.98,0.56,0.69,0.71,0.95
+ffd4505a-8874-4048-8546-96d19fe72a62,Dr. Friedrich-Wilhelm Johann,"Softwarearchitektur, Statistik, Data Engineering",0.62,0.93,0.72,0.36,0.48,0.41,0.79,0.46,0.82,0.54,0.61,0.88,0.83
+e2665732-0228-4261-9d0a-f5ff0b12a5eb,Aleksander Mies B.Eng.,"Softwarearchitektur, Statistik, Machine Learning",0.59,0.61,0.79,0.67,0.56,0.62,0.44,0.83,0.52,0.83,0.89,0.64,0.56

@@ -24,6 +24,7 @@ team-10-personalmanager-gfai-bvvi/
 ├── src/                   # Quellcode des Projekts
 ├── tests/                 # Testfälle
 ├── docs/                  # Projektbezogene Dokumentation
+├── visualizations/        # Grafiken zur Darstellung der Projektzuordnungen
 └── requirements.txt       # Liste der Python-Abhängigkeiten
 ```
 

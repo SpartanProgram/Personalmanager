@@ -35,6 +35,21 @@ git config --global user.name "-->Name<--"
 ```
 
 ```bash
+# Python-Version
+
+#Dieses Projekt verwendet Python 3.11. Falls du eine andere Python-Version #installiert hast, empfiehlt es sich, pyenv zu verwenden:
+
+# pyenv installieren (falls noch nicht vorhanden)
+# Anleitung: https://github.com/pyenv/pyenv#installation
+
+# gewünschte Version installieren
+pyenv install 3.11.9
+
+# lokal für dieses Projekt festlegen
+pyenv local 3.11.9
+```
+
+```bash
 # Virtuelle Umgebung erstellen
 python3.11 -m venv .venv
 source .venv/bin/activate  # oder .\.venv\Scripts\activate auf Windows

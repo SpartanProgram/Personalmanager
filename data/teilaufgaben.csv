@@ -1,10 +1,31 @@
 teilaufgabe_id,projekt_id,bezeichnung,kompetenz,aufwand,start,ende
-8476df2d-a7b5-4581-9704-ede8240f5c3a,739e3d38-3411-465f-9870-fc9af7412273,syndicate value-added niches,Softwarearchitektur,1.7,03/2025,06/2025
-8ef860d6-6944-450b-88db-f6f85c905089,739e3d38-3411-465f-9870-fc9af7412273,integrate seamless communities,Softwarearchitektur,3.1,03/2025,06/2025
-b1fd1e7c-b4cc-40d6-938c-6fd166c54b8b,739e3d38-3411-465f-9870-fc9af7412273,utilize innovative content,Statistik,3.1,03/2025,06/2025
-251e5cae-98e3-450e-b8b5-6a498fc8500e,f50f52e6-65cc-4317-8d78-45f8f1070583,re-contextualize intuitive networks,Softwarearchitektur,1.8,03/2025,06/2025
-8b056f2c-b72f-4a45-869a-2c9eae690eab,f50f52e6-65cc-4317-8d78-45f8f1070583,brand synergistic infrastructures,Statistik,4.7,03/2025,06/2025
-31305667-450b-41d1-8989-bf73e9c732f2,f50f52e6-65cc-4317-8d78-45f8f1070583,synergize proactive mindshare,Machine Learning,1.8,03/2025,06/2025
-d0df4f01-6bd6-4659-9113-df1ac38f8af2,e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,streamline B2C solutions,Softwarearchitektur,1.7,03/2025,06/2025
-e0d15f8d-f0c5-4022-a1ca-ef33df77fddf,e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,architect B2C web-readiness,Statistik,3.8,03/2025,06/2025
-7f2532ee-23e9-4d73-9e79-26345edeb2b7,e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,seize end-to-end e-services,Softwarearchitektur,4.1,03/2025,06/2025
+51632ad8-46be-4531-9444-93b21a5f3576,53b88b99-5c17-41f6-9620-dde67d543949,syndicate back-end architectures,Data Engineering,2.1,03/2025,06/2025
+f183d38a-f0b9-42c5-a448-d6c6765d3503,53b88b99-5c17-41f6-9620-dde67d543949,enhance front-end technologies,NLP,2.6,03/2025,06/2025
+8041e17f-2069-40f6-a9b5-499474964af6,53b88b99-5c17-41f6-9620-dde67d543949,drive seamless schemas,Machine Learning,4.4,03/2025,06/2025
+6221dd45-9b38-4910-b675-ecd46c7b4da7,86cfdbdc-80a2-4b4e-aadf-7dada8fb98e5,matrix best-of-breed metrics,Softwarearchitektur,1.4,03/2025,06/2025
+4fe2bcc6-7493-408b-97bf-c93c1585db13,86cfdbdc-80a2-4b4e-aadf-7dada8fb98e5,deliver innovative solutions,Machine Learning,2.7,03/2025,06/2025
+e3d5bec0-2d90-4878-81ef-da32e684dc54,86cfdbdc-80a2-4b4e-aadf-7dada8fb98e5,transition wireless info-mediaries,NLP,4.6,03/2025,06/2025
+f6f92dfc-41e6-42ec-a3f6-e919e4152b04,0fce5ea5-d12a-4141-b9ef-ebe79d0084d9,matrix innovative models,Softwarearchitektur,4.7,03/2025,06/2025
+6e372fff-337a-449e-8e62-1835ce02ba78,0fce5ea5-d12a-4141-b9ef-ebe79d0084d9,brand clicks-and-mortar e-tailers,Softwarearchitektur,1.4,03/2025,06/2025
+2b839897-d9db-480b-86f9-99b88c9b3281,0fce5ea5-d12a-4141-b9ef-ebe79d0084d9,envisioneer proactive partnerships,NLP,1.3,03/2025,06/2025
+9a3fc642-d68b-44d0-8612-9d0dea71f40c,0fce5ea5-d12a-4141-b9ef-ebe79d0084d9,unleash back-end info-mediaries,Data Engineering,2.2,03/2025,06/2025
+4bac5efa-bbb6-45a6-a353-c8ae0b02d0a2,2db4bc29-acb3-4117-b82b-45469e57c731,engineer ubiquitous eyeballs,Statistik,2.0,03/2025,06/2025
+e3943d1b-c4de-48fd-99b1-2045ac030346,2db4bc29-acb3-4117-b82b-45469e57c731,orchestrate 24/365 applications,Statistik,4.7,03/2025,06/2025
+936115d8-6fab-49f5-b4f8-b4635d9b2db3,9c16fe55-0084-4522-a575-fe108893ee94,utilize ubiquitous e-tailers,Softwarearchitektur,4.1,03/2025,06/2025
+7fe05ffe-7e90-46d2-9b5e-e3a86ca475a0,9c16fe55-0084-4522-a575-fe108893ee94,envisioneer proactive systems,Softwarearchitektur,3.2,03/2025,06/2025
+665daaa7-8dc1-4f3f-bfcc-9b11b5432e15,41c28dea-2463-431e-97ac-2cf112711edc,deliver leading-edge convergence,Softwarearchitektur,1.0,03/2025,06/2025
+e284fed7-052a-4a43-bad3-7ab64463ee9d,41c28dea-2463-431e-97ac-2cf112711edc,repurpose intuitive platforms,Data Engineering,4.5,03/2025,06/2025
+7bc78bfa-e90f-4ceb-bd17-0b9e79805f1b,41c28dea-2463-431e-97ac-2cf112711edc,engineer out-of-the-box platforms,Statistik,4.8,03/2025,06/2025
+34258f13-8a7a-45e4-9c56-2d531433dc22,41c28dea-2463-431e-97ac-2cf112711edc,facilitate value-added supply-chains,NLP,2.6,03/2025,06/2025
+f15aa3cf-e547-4ff1-9eb7-f8c240acac62,25ed4e16-b462-49ba-9225-30add945f35a,facilitate cross-platform solutions,Machine Learning,3.7,03/2025,06/2025
+33c358ba-7f04-4ed3-9688-6e74b21e9be4,25ed4e16-b462-49ba-9225-30add945f35a,grow strategic mindshare,Softwarearchitektur,1.2,03/2025,06/2025
+fb07fc70-f73d-44eb-82a9-d3f4c4e809d3,25ed4e16-b462-49ba-9225-30add945f35a,incubate interactive ROI,Machine Learning,3.6,03/2025,06/2025
+1a1ef39f-fa4e-4e78-895c-6491ffabd8b7,d7f484cd-63a2-45ad-b2c7-07da3f47b4b9,repurpose bleeding-edge solutions,Data Engineering,4.1,03/2025,06/2025
+9de6bb04-1268-4b44-96ef-8a4cab5a2009,d7f484cd-63a2-45ad-b2c7-07da3f47b4b9,repurpose user-centric portals,Data Engineering,4.4,03/2025,06/2025
+58f6eec6-665a-4065-bd13-bcf5c2fe4443,34302634-f9fc-4fb7-9494-c5dafd4234b6,expedite cutting-edge markets,Data Engineering,3.7,03/2025,06/2025
+978ed1b5-9401-425a-8704-60036fee0976,34302634-f9fc-4fb7-9494-c5dafd4234b6,iterate cross-platform info-mediaries,Data Engineering,4.1,03/2025,06/2025
+e7736b7c-fa61-419b-abd8-be2f98689286,34302634-f9fc-4fb7-9494-c5dafd4234b6,unleash dynamic convergence,Softwarearchitektur,1.9,03/2025,06/2025
+2e09a828-eb1a-4534-8a38-ab34d62a199a,34302634-f9fc-4fb7-9494-c5dafd4234b6,benchmark magnetic applications,Softwarearchitektur,2.2,03/2025,06/2025
+04eb9ca8-779a-4194-9446-a597a97fcd46,8a08de9c-718d-4e70-ba24-3585a6828f15,iterate killer platforms,NLP,1.2,03/2025,06/2025
+15d699f6-40cb-46bd-813a-cd86bc7ab764,8a08de9c-718d-4e70-ba24-3585a6828f15,engineer next-generation systems,Softwarearchitektur,1.5,03/2025,06/2025
+2c3eecdc-e0fb-4861-9aa6-d3fc3a918a73,8a08de9c-718d-4e70-ba24-3585a6828f15,engineer back-end metrics,NLP,2.9,03/2025,06/2025

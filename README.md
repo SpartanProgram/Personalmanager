@@ -31,7 +31,7 @@ team-10-personalmanager-gfai-bvvi/
 
 ```bash
 # Clonen des Projektes per SSH
-git@gitlab.rz.htw-berlin.de:softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi.git
+git clone git@gitlab.rz.htw-berlin.de:softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi.git
 ```
 ```bash
 # Per Terminal oder VS-Code mit Git verbinden

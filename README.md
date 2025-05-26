@@ -27,9 +27,14 @@ team-10-personalmanager-gfai-bvvi/
 ├── visualizations/        # Grafiken zur Darstellung der Projektzuordnungen
 └── requirements.txt       # Liste der Python-Abhängigkeiten
 ```
+## Projekinstallation
 
 ```bash
-# VS-Code mit Git verbinden
+# Clonen des Projektes per SSH
+git@gitlab.rz.htw-berlin.de:softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi.git
+```
+```bash
+# Per Terminal oder VS-Code mit Git verbinden
 git config --global user.email "-->HTW-Mail-Adresse<--"
 git config --global user.name "-->Name<--"
 ```
@@ -55,7 +60,7 @@ git config --global user.name "-->Name<--"
    conda info
    
    # Nach der Installation Python3.11 Umgebungen erstellen:
-   conda create --.cenv python=3.11
+   conda env create -f environment.yml
    conda activate .cenv
 ```
 ```bash
@@ -72,7 +77,7 @@ git config --global user.name "-->Name<--"
    # - Test mit: conda info
 
    # Nach der Installation Python3.11 Umgebungen erstellen:
-   conda create --.cenv python=3.11
+   conda env create -f environment.yml
    conda activate .cenv
 ```
 

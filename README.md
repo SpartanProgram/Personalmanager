@@ -10,7 +10,7 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 
 ## Tech Stack
 - **Python 3.11**, PyTorch, scikit-learn, Pandas, NumPy
-- **Visual Studio Code**, Jupyter Notebook
+- **Anaconda3**, **Visual Studio Code**, Jupyter Notebook
 - **Matplotlib, Seaborn** zur Visualisierung
 - **Faker** zur Generierung von Pseudo-Daten
 

@@ -34,6 +34,48 @@ git config --global user.email "-->HTW-Mail-Adresse<--"
 git config --global user.name "-->Name<--"
 ```
 
+# 🐍 Anaconda Installation
+
+```bash
+   # Debian-Linux Installation
+   sudo apt update && sudo apt upgrade -y
+
+   # Anaconda-Installer herunterladen:
+   wget https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+
+   Installation starten:
+   bash Anaconda3-2024.10-1-Linux-x86_64.sh
+
+   Anweisungen folgen (Lizenz akzeptieren, Pfad bestätigen, conda init aktivieren)
+
+   Shell neu laden:
+   source ~/.bashrc
+
+   Testen:
+   conda info
+   
+   # Nach der Installation Python3.11 Umgebungen erstellen:
+   conda create --.cenv python=3.11
+   conda activate .cenv
+```
+```bash
+   # Windowns Installation
+   # Offiziellen Installer herunterladen von:
+   https://www.anaconda.com/products/distribution
+
+   # Doppelklick auf die .exe-Datei und Setup durchlaufen
+   # - Für "Just Me" oder "All Users"
+   # - Option „Anaconda in PATH aufnehmen“ optional (empfohlen: Anaconda Prompt verwenden)
+
+   # Nach der Installation:
+   # - „Anaconda Prompt“ oder „Anaconda Navigator“ starten
+   # - Test mit: conda info
+
+   # Nach der Installation Python3.11 Umgebungen erstellen:
+   conda create --.cenv python=3.11
+   conda activate .cenv
+```
+
 # Python-Version
 
 Dieses Projekt verwendet Python 3.11. Falls du eine andere Python-Version 

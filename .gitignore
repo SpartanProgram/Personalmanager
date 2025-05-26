@@ -12,8 +12,10 @@ __pycache__/
 # Virtual environment folders (commonly used names)
 venv/
 env/
+cenv/
 .venv/
 .env/
+.cenv/
 .python-version
 
 # Python virtual environment files

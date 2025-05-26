@@ -25,6 +25,7 @@ team-10-personalmanager-gfai-bvvi/
 ├── tests/                 # Testfälle
 ├── docs/                  # Projektbezogene Dokumentation
 ├── visualizations/        # Grafiken zur Darstellung der Projektzuordnungen
+├── environment.yml        # Conda-Umgebung mit kompatiblen Python-Abhängigkeiten
 └── requirements.txt       # Liste der Python-Abhängigkeiten
 ```
 ## Projekinstallation

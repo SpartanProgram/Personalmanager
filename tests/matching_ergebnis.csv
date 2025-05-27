@@ -1,26 +1,7 @@
 projekt_id,teilaufgabe_id,teilaufgabe,kompetenz,person_id,name,score,verfuegbarkeit_summe
-739e3d38-3411-465f-9870-fc9af7412273,8476df2d-a7b5-4581-9704-ede8240f5c3a,syndicate value-added niches,Softwarearchitektur,cd9fbc06-ff92-4bb7-8a6c-f89f2f8eb6ee,Songül Jockel,2.67,2.78
-739e3d38-3411-465f-9870-fc9af7412273,8476df2d-a7b5-4581-9704-ede8240f5c3a,syndicate value-added niches,Softwarearchitektur,0d6bc99a-d9d5-4ef4-b013-f854ab80ae8c,Jolanta Reising-Weller,2.56,2.69
-739e3d38-3411-465f-9870-fc9af7412273,8476df2d-a7b5-4581-9704-ede8240f5c3a,syndicate value-added niches,Softwarearchitektur,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-739e3d38-3411-465f-9870-fc9af7412273,8ef860d6-6944-450b-88db-f6f85c905089,integrate seamless communities,Softwarearchitektur,cd9fbc06-ff92-4bb7-8a6c-f89f2f8eb6ee,Songül Jockel,2.67,2.78
-739e3d38-3411-465f-9870-fc9af7412273,8ef860d6-6944-450b-88db-f6f85c905089,integrate seamless communities,Softwarearchitektur,0d6bc99a-d9d5-4ef4-b013-f854ab80ae8c,Jolanta Reising-Weller,2.56,2.69
-739e3d38-3411-465f-9870-fc9af7412273,8ef860d6-6944-450b-88db-f6f85c905089,integrate seamless communities,Softwarearchitektur,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-739e3d38-3411-465f-9870-fc9af7412273,b1fd1e7c-b4cc-40d6-938c-6fd166c54b8b,utilize innovative content,Statistik,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-739e3d38-3411-465f-9870-fc9af7412273,b1fd1e7c-b4cc-40d6-938c-6fd166c54b8b,utilize innovative content,Statistik,f189f9e1-7213-428b-aad2-ea662ac7002e,Olav Etzold,1.81,2.21
-739e3d38-3411-465f-9870-fc9af7412273,b1fd1e7c-b4cc-40d6-938c-6fd166c54b8b,utilize innovative content,Statistik,f00a4015-c311-42e0-8065-3ad49fbd2f67,Hans-Hinrich Segebahn-Schmidtke,1.65,3.05
-f50f52e6-65cc-4317-8d78-45f8f1070583,251e5cae-98e3-450e-b8b5-6a498fc8500e,re-contextualize intuitive networks,Softwarearchitektur,cd9fbc06-ff92-4bb7-8a6c-f89f2f8eb6ee,Songül Jockel,2.67,2.78
-f50f52e6-65cc-4317-8d78-45f8f1070583,251e5cae-98e3-450e-b8b5-6a498fc8500e,re-contextualize intuitive networks,Softwarearchitektur,0d6bc99a-d9d5-4ef4-b013-f854ab80ae8c,Jolanta Reising-Weller,2.56,2.69
-f50f52e6-65cc-4317-8d78-45f8f1070583,251e5cae-98e3-450e-b8b5-6a498fc8500e,re-contextualize intuitive networks,Softwarearchitektur,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-f50f52e6-65cc-4317-8d78-45f8f1070583,8b056f2c-b72f-4a45-869a-2c9eae690eab,brand synergistic infrastructures,Statistik,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-f50f52e6-65cc-4317-8d78-45f8f1070583,8b056f2c-b72f-4a45-869a-2c9eae690eab,brand synergistic infrastructures,Statistik,f189f9e1-7213-428b-aad2-ea662ac7002e,Olav Etzold,1.81,2.21
-f50f52e6-65cc-4317-8d78-45f8f1070583,8b056f2c-b72f-4a45-869a-2c9eae690eab,brand synergistic infrastructures,Statistik,f00a4015-c311-42e0-8065-3ad49fbd2f67,Hans-Hinrich Segebahn-Schmidtke,1.65,3.05
-f50f52e6-65cc-4317-8d78-45f8f1070583,31305667-450b-41d1-8989-bf73e9c732f2,synergize proactive mindshare,Machine Learning,e2665732-0228-4261-9d0a-f5ff0b12a5eb,Aleksander Mies B.Eng.,1.35,2.29
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,d0df4f01-6bd6-4659-9113-df1ac38f8af2,streamline B2C solutions,Softwarearchitektur,cd9fbc06-ff92-4bb7-8a6c-f89f2f8eb6ee,Songül Jockel,2.67,2.78
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,d0df4f01-6bd6-4659-9113-df1ac38f8af2,streamline B2C solutions,Softwarearchitektur,0d6bc99a-d9d5-4ef4-b013-f854ab80ae8c,Jolanta Reising-Weller,2.56,2.69
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,d0df4f01-6bd6-4659-9113-df1ac38f8af2,streamline B2C solutions,Softwarearchitektur,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,e0d15f8d-f0c5-4022-a1ca-ef33df77fddf,architect B2C web-readiness,Statistik,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,e0d15f8d-f0c5-4022-a1ca-ef33df77fddf,architect B2C web-readiness,Statistik,f189f9e1-7213-428b-aad2-ea662ac7002e,Olav Etzold,1.81,2.21
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,e0d15f8d-f0c5-4022-a1ca-ef33df77fddf,architect B2C web-readiness,Statistik,f00a4015-c311-42e0-8065-3ad49fbd2f67,Hans-Hinrich Segebahn-Schmidtke,1.65,3.05
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,7f2532ee-23e9-4d73-9e79-26345edeb2b7,seize end-to-end e-services,Softwarearchitektur,cd9fbc06-ff92-4bb7-8a6c-f89f2f8eb6ee,Songül Jockel,2.67,2.78
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,7f2532ee-23e9-4d73-9e79-26345edeb2b7,seize end-to-end e-services,Softwarearchitektur,0d6bc99a-d9d5-4ef4-b013-f854ab80ae8c,Jolanta Reising-Weller,2.56,2.69
-e4e31f9b-e1e6-42ef-b3f5-7263eea7b6a9,7f2532ee-23e9-4d73-9e79-26345edeb2b7,seize end-to-end e-services,Softwarearchitektur,2c52042c-f98d-4b38-adf5-9819c4d2b064,Dipl.-Ing. Wilma Lindner,2.28,2.65
+568eee47-17e4-4f8b-a4a8-b9e960efed5d,21c06e9b-aae2-42a6-b537-db79e1e240dc,repurpose cross-media applications,NLP,c9466e87-d492-4129-ac3a-bfef63a79675,Dipl.-Ing. Arndt Käster B.Sc.,1.42,2.79
+214bab54-d193-47bd-8eb6-f8080ea1ac19,a3db33f8-ecaf-4f2c-a664-eb401bf93616,empower user-centric schemas,Softwarearchitektur,6bda32a8-73da-4487-bfbe-303d2ee8b381,Folkert Junck-Davids,2.76,3.41
+214bab54-d193-47bd-8eb6-f8080ea1ac19,745e0834-740c-496d-af6e-20651a772b8c,optimize ubiquitous metrics,Data Engineering,10a6a702-d6d7-4ced-817f-2b9338e7d21e,Marie Krause,2.04,2.43
+214bab54-d193-47bd-8eb6-f8080ea1ac19,745e0834-740c-496d-af6e-20651a772b8c,optimize ubiquitous metrics,Data Engineering,eaf72819-e9d0-4ad0-9966-39225c49c791,Vittorio Butte,2.02,2.84
+a37e4a17-4c16-4f34-aaa1-3951f3aefe17,b478386a-49de-4cd6-9ef3-de2727f82643,grow transparent e-tailers,Statistik,513bd646-b8d2-4793-bd1c-ecc38a3e6795,Lucie Höfig,2.22,3.09
+a37e4a17-4c16-4f34-aaa1-3951f3aefe17,b478386a-49de-4cd6-9ef3-de2727f82643,grow transparent e-tailers,Statistik,33a93afa-3731-404b-bc5f-0dc8ea56744d,Hans-Dietrich Schinke B.Sc.,2.07,2.59

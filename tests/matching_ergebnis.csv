@@ -1,7 +1,11 @@
-projekt_id,teilaufgabe_id,teilaufgabe,kompetenz,person_id,name,score,verfuegbarkeit_summe
-568eee47-17e4-4f8b-a4a8-b9e960efed5d,21c06e9b-aae2-42a6-b537-db79e1e240dc,repurpose cross-media applications,NLP,c9466e87-d492-4129-ac3a-bfef63a79675,Dipl.-Ing. Arndt Käster B.Sc.,1.42,2.79
-214bab54-d193-47bd-8eb6-f8080ea1ac19,a3db33f8-ecaf-4f2c-a664-eb401bf93616,empower user-centric schemas,Softwarearchitektur,6bda32a8-73da-4487-bfbe-303d2ee8b381,Folkert Junck-Davids,2.76,3.41
-214bab54-d193-47bd-8eb6-f8080ea1ac19,745e0834-740c-496d-af6e-20651a772b8c,optimize ubiquitous metrics,Data Engineering,10a6a702-d6d7-4ced-817f-2b9338e7d21e,Marie Krause,2.04,2.43
-214bab54-d193-47bd-8eb6-f8080ea1ac19,745e0834-740c-496d-af6e-20651a772b8c,optimize ubiquitous metrics,Data Engineering,eaf72819-e9d0-4ad0-9966-39225c49c791,Vittorio Butte,2.02,2.84
-a37e4a17-4c16-4f34-aaa1-3951f3aefe17,b478386a-49de-4cd6-9ef3-de2727f82643,grow transparent e-tailers,Statistik,513bd646-b8d2-4793-bd1c-ecc38a3e6795,Lucie Höfig,2.22,3.09
-a37e4a17-4c16-4f34-aaa1-3951f3aefe17,b478386a-49de-4cd6-9ef3-de2727f82643,grow transparent e-tailers,Statistik,33a93afa-3731-404b-bc5f-0dc8ea56744d,Hans-Dietrich Schinke B.Sc.,2.07,2.59
+teilaufgabe_id,teilaufgabe,projekt_id,kompetenz,person_id,name,zugewiesener_aufwand
+d36f33df-bf4d-4d31-b9ad-ea6b032b24bf,Entwurf CAD-Baugruppe,2d7c8957-df13-4182-95af-74596ca0ea95,CAD,32b9accd-e475-4d13-a0fd-c4c27fc29650,Erich Carsten,3.0
+87d1a35e-646c-43b2-a596-afe5e42ee009,Simulation FEM-Struktur,2d7c8957-df13-4182-95af-74596ca0ea95,FEM,f3100a30-e900-497a-a3df-84de838781e7,Univ.Prof. Hans Jürgen Ziegert B.Sc.,2.5
+47f30b6e-b3c2-4eea-991f-1de8b0511d30,Signalverarbeitung Sensor,2d7c8957-df13-4182-95af-74596ca0ea95,Signalverarbeitung,9a8d8435-7047-4478-841f-74b6fa77c568,Miguel Adolph MBA.,2.0
+6ff7a37a-3848-4a9f-8a40-868becf94b16,Entwicklung Python-Modul,2d7c8957-df13-4182-95af-74596ca0ea95,Python,d8fa60a3-84fc-4d41-b237-b24477f77de7,Eggert Mosemann,2.66
+6ff7a37a-3848-4a9f-8a40-868becf94b16,Entwicklung Python-Modul,2d7c8957-df13-4182-95af-74596ca0ea95,Python,39c477c8-47ea-40ea-824c-d899efad2e3b,Prof. Alfons Weinhage MBA.,0.84
+a8af38df-b63a-4655-83d1-e2c10ee4b2a6,Statistische Auswertung,2d7c8957-df13-4182-95af-74596ca0ea95,Stochastik,813ea1a6-c51b-4104-9b01-1a5cab2f57e8,Horst-Dieter Beyer-Jacob,2.0
+eca968c8-32c1-450e-9dcd-1bd6fedce156,Optische Analyse,2d7c8957-df13-4182-95af-74596ca0ea95,Optik,4d1b125d-f9a5-4394-8316-16fb579f93d8,Melissa Kramer,1.5
+8e8d7702-683b-48c7-af09-a932bc861795,Datenbankmodellierung,2d7c8957-df13-4182-95af-74596ca0ea95,Datenbanken,e42acda5-bbc2-44e7-9887-46db3bdc5b4d,Hans-Günter auch Schlauchin B.Sc.,2.0
+5df709b7-c802-4d4a-8fb1-758a738220a0,Thermodynamische Bewertung,2d7c8957-df13-4182-95af-74596ca0ea95,Thermodynamik,951d3bc0-b7e7-4faa-bbc0-7c7b57d0ce59,Ingo Klemm,2.78
+5df709b7-c802-4d4a-8fb1-758a738220a0,Thermodynamische Bewertung,2d7c8957-df13-4182-95af-74596ca0ea95,Thermodynamik,efbf84f1-dd49-416e-a713-88331fbc4e9a,Ing. Hans-Georg Scholz B.Sc.,0.22

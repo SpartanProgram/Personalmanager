@@ -1,31 +1,9 @@
-teilaufgabe_id,projekt_id,bezeichnung,kompetenz,aufwand,start,ende
-d3bf6752-8fc2-4ddf-a774-36742e531c47,bc7f4265-0398-4e32-a3d3-a47aa630866b,incentivize proactive e-business,Machine Learning,3.1,03/2025,06/2025
-383c9cbe-c5bf-4a4c-853a-c59866d13931,bc7f4265-0398-4e32-a3d3-a47aa630866b,exploit synergistic niches,Machine Learning,2.6,03/2025,06/2025
-8335dbee-61c2-4fb7-96d5-cf836513e428,d4093627-3d78-4eab-a9b1-8a0cf7f7815a,scale intuitive supply-chains,Statistik,4.7,03/2025,06/2025
-5f3ec661-063d-4fb4-809a-5b24f5cb434d,d4093627-3d78-4eab-a9b1-8a0cf7f7815a,facilitate bricks-and-clicks synergies,Softwarearchitektur,3.0,03/2025,06/2025
-79e6d1e4-2463-45f7-a064-dcb3eba68190,d4093627-3d78-4eab-a9b1-8a0cf7f7815a,reinvent end-to-end technologies,Data Engineering,2.3,03/2025,06/2025
-21c06e9b-aae2-42a6-b537-db79e1e240dc,568eee47-17e4-4f8b-a4a8-b9e960efed5d,repurpose cross-media applications,NLP,1.6,03/2025,06/2025
-a28aa989-504c-422a-b4e6-cd1684eee236,568eee47-17e4-4f8b-a4a8-b9e960efed5d,aggregate interactive platforms,Statistik,4.3,03/2025,06/2025
-debd35cb-fa1c-4190-ace3-94daf9769fab,568eee47-17e4-4f8b-a4a8-b9e960efed5d,incentivize visionary web-readiness,Statistik,4.0,03/2025,06/2025
-a3db33f8-ecaf-4f2c-a664-eb401bf93616,214bab54-d193-47bd-8eb6-f8080ea1ac19,empower user-centric schemas,Softwarearchitektur,2.1,03/2025,06/2025
-745e0834-740c-496d-af6e-20651a772b8c,214bab54-d193-47bd-8eb6-f8080ea1ac19,optimize ubiquitous metrics,Data Engineering,1.2,03/2025,06/2025
-5a75758f-bd63-4f76-85c6-ed559b67a709,05d29686-e0de-4e6b-b134-5edf9d5a995a,aggregate leading-edge users,Data Engineering,1.6,03/2025,06/2025
-c1ee7e16-6d65-4693-a719-64caa39e86a2,05d29686-e0de-4e6b-b134-5edf9d5a995a,drive web-enabled markets,Statistik,4.7,03/2025,06/2025
-9d094ac8-9343-4871-9525-97db88e8247e,d33a923c-99d3-40b7-bf57-722605fbfd67,synergize proactive channels,Machine Learning,4.0,03/2025,06/2025
-7e30f529-85b3-453a-a977-5369ad2f00cb,d33a923c-99d3-40b7-bf57-722605fbfd67,envisioneer next-generation bandwidth,Machine Learning,2.7,03/2025,06/2025
-14256d00-dfb9-48b7-9a6e-91ed68004cb9,d33a923c-99d3-40b7-bf57-722605fbfd67,engage visionary niches,Statistik,3.8,03/2025,06/2025
-ee725c7f-f460-4a68-9042-6e8c56f6bb76,83f3c2c2-afa1-4546-ba0e-cf408b691544,innovate transparent info-mediaries,Softwarearchitektur,4.2,03/2025,06/2025
-89633580-62f9-47fa-afa5-0cff1cea8f75,83f3c2c2-afa1-4546-ba0e-cf408b691544,brand global info-mediaries,Machine Learning,4.2,03/2025,06/2025
-46da9274-c49b-4f25-93e1-bab1b8315cd6,83f3c2c2-afa1-4546-ba0e-cf408b691544,streamline virtual technologies,Softwarearchitektur,2.6,03/2025,06/2025
-85f84326-3d0a-4f78-b841-79a975696f0e,b33c4fa8-d3ac-48e8-abbf-3894a09bbbfe,monetize enterprise partnerships,Data Engineering,2.4,03/2025,06/2025
-0c434a0a-2c33-4d12-9ae2-817e6f58b97c,b33c4fa8-d3ac-48e8-abbf-3894a09bbbfe,target bleeding-edge interfaces,Machine Learning,1.7,03/2025,06/2025
-2ceb5cbd-93e6-4db4-bfb0-292bd0bd19a9,b33c4fa8-d3ac-48e8-abbf-3894a09bbbfe,streamline collaborative networks,NLP,2.3,03/2025,06/2025
-bf302d84-9f40-4820-aec6-459272aeec7c,b33c4fa8-d3ac-48e8-abbf-3894a09bbbfe,incubate clicks-and-mortar bandwidth,Data Engineering,3.6,03/2025,06/2025
-b478386a-49de-4cd6-9ef3-de2727f82643,a37e4a17-4c16-4f34-aaa1-3951f3aefe17,grow transparent e-tailers,Statistik,1.5,03/2025,06/2025
-e15bdaea-4c98-41ad-882f-ef5bf977c0be,a37e4a17-4c16-4f34-aaa1-3951f3aefe17,envisioneer customized models,Softwarearchitektur,2.8,03/2025,06/2025
-ead502c6-81d6-4bee-a974-678aa8454528,a37e4a17-4c16-4f34-aaa1-3951f3aefe17,streamline cross-media users,Statistik,2.1,03/2025,06/2025
-d1196084-3efa-44f6-acde-5611781de7a3,a37e4a17-4c16-4f34-aaa1-3951f3aefe17,re-intermediate enterprise schemas,NLP,4.2,03/2025,06/2025
-419f3e9f-e3f4-46ef-bae3-62671ef23586,62156b55-fefe-46c4-b2a5-b7a1a60729a7,evolve dot-com convergence,Softwarearchitektur,3.6,03/2025,06/2025
-ab729360-fd1d-4db4-81cd-a88688172cd6,62156b55-fefe-46c4-b2a5-b7a1a60729a7,engineer scalable paradigms,Softwarearchitektur,1.7,03/2025,06/2025
-b08fde1c-aa94-4261-869c-ec809d82ca2a,62156b55-fefe-46c4-b2a5-b7a1a60729a7,innovate enterprise eyeballs,Softwarearchitektur,3.3,03/2025,06/2025
-9239544f-6a57-48d3-8eab-b97c85dc7967,62156b55-fefe-46c4-b2a5-b7a1a60729a7,utilize collaborative markets,Softwarearchitektur,1.4,03/2025,06/2025
+bezeichnung,kompetenz,aufwand,teilaufgabe_id,projekt_id,start,ende
+Entwurf CAD-Baugruppe,CAD,3.0,d36f33df-bf4d-4d31-b9ad-ea6b032b24bf,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Simulation FEM-Struktur,FEM,2.5,87d1a35e-646c-43b2-a596-afe5e42ee009,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Signalverarbeitung Sensor,Signalverarbeitung,2.0,47f30b6e-b3c2-4eea-991f-1de8b0511d30,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Entwicklung Python-Modul,Python,3.5,6ff7a37a-3848-4a9f-8a40-868becf94b16,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Statistische Auswertung,Stochastik,2.0,a8af38df-b63a-4655-83d1-e2c10ee4b2a6,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Optische Analyse,Optik,1.5,eca968c8-32c1-450e-9dcd-1bd6fedce156,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Datenbankmodellierung,Datenbanken,2.0,8e8d7702-683b-48c7-af09-a932bc861795,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025
+Thermodynamische Bewertung,Thermodynamik,3.0,5df709b7-c802-4d4a-8fb1-758a738220a0,2d7c8957-df13-4182-95af-74596ca0ea95,03/2025,06/2025

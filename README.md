@@ -1,6 +1,6 @@
 # KI-gestützte Verteilung wissenschaftlichen Personals
 
-Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisierten Verteilung von wissenschaftlichem Personal auf Forschungsprojekte. Die Zuordnung erfolgt auf Basis von Kompetenzen, Verfügbarkeit und optional weiteren Kriterien.
+Dieses Projekt implementiert ein KI-basiertes System zur automatisierten Verteilung von wissenschaftlichem Personal auf Forschungsprojekte. Die Verteilung erfolgt auf Basis von Kompetenzen, Verfügbarkeit und optional weiteren Kriterien.
 
 ## Funktionen
 - Extraktion relevanter Features aus Mitarbeiter- und Projektdaten

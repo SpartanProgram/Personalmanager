@@ -1,151 +1,151 @@
 id,name,kompetenzen,zeitbudget,verfuegbarkeit_01/2025,verfuegbarkeit_02/2025,verfuegbarkeit_03/2025,verfuegbarkeit_04/2025,verfuegbarkeit_05/2025,verfuegbarkeit_06/2025,verfuegbarkeit_07/2025,verfuegbarkeit_08/2025,verfuegbarkeit_09/2025,verfuegbarkeit_10/2025,verfuegbarkeit_11/2025,verfuegbarkeit_12/2025
-37eaf9be-7a3f-4ec1-b366-decad383a848,Clarissa Scholtz,"Mechanik, Numerik",0.69,0.64,0.53,0.44,0.77,0.59,0.33,0.52,0.98,0.52,0.94,0.51,0.61
-df06d18f-8511-40e4-bde5-621063bc3012,Alan Hörle B.Eng.,"Schaltungstechnik, Statistische Mechanik, Numerik, Stochastik",0.84,0.65,0.92,0.9,0.3,0.5,0.64,0.88,0.98,0.47,0.56,0.36,0.52
-f9f9bcab-c80a-482f-b06e-8f2ae69a8966,Maik Börner B.A.,"FEM, CAD, Stochastik, Schaltungstechnik",0.97,0.93,0.32,0.56,0.6,0.52,0.4,0.41,0.6,0.76,0.74,0.81,0.48
-5a75b6c3-65cc-4e8d-aa47-d1c2176e4d17,Valerie Jüttner,FEM,0.49,0.58,0.87,0.51,0.33,0.44,0.44,0.44,0.85,0.41,0.79,0.41,0.88
-a1d682c2-1881-402c-af8c-8a3e749537b8,Herr Gerhardt Scheuermann,"Datenbanken, Statistische Mechanik",0.89,0.59,0.53,0.37,0.59,0.55,0.92,0.63,0.92,0.41,0.48,0.73,0.81
-5c9b2697-81eb-45b7-bfc0-2ec5468c4f52,Hermine Sauer,"Datenbanken, Python, Schaltungstechnik, Statistische Mechanik",0.46,0.94,0.82,0.42,0.31,0.65,0.33,0.31,0.55,0.97,0.76,0.54,0.49
-cdadcfcf-9f79-4634-8f29-6c707944ab4e,Univ.Prof. Holger Jüttner,"Numerik, Mechanik",0.45,0.37,0.77,0.58,0.35,0.67,0.32,0.42,0.82,0.52,0.86,0.58,0.79
-afd82131-4440-4b68-a4d0-8c05b753fc13,Tobias Aumann,Optik,0.48,0.46,0.32,0.4,0.34,0.3,0.91,0.87,0.76,0.58,0.48,0.72,0.32
-07258582-ddea-4d71-93ff-6595d1f38ec0,Ana Ullrich,"Lineare Algebra, CAD, Stochastik, Schaltungstechnik",0.74,0.91,0.56,0.57,0.78,0.94,0.6,0.4,0.6,0.69,0.44,0.69,0.36
-6b2e8963-e6f9-43f6-b8a1-e0c0a774d871,Dr. Madeleine Otto B.A.,"Quantenphysik, Softwarearchitektur, CAD, Mechanik",0.89,0.53,0.37,0.39,0.4,0.7,0.41,0.92,0.96,0.61,0.52,0.58,0.82
-9907c7e9-af59-47d4-9182-ac8f86133c9d,Cilli Lange,"Mechanik, Optik, Statistische Mechanik, Quantenphysik",0.94,0.81,0.35,0.8,0.61,0.71,0.52,0.74,0.36,0.84,0.54,0.9,0.77
-1c510d2a-c22e-4f08-b1e1-cc57e0cf0bf3,Dr. Lioba Hornig B.A.,"Schaltungstechnik, Leistungselektronik",0.75,0.4,0.36,0.75,0.7,0.81,1.0,0.95,0.42,0.59,0.62,0.67,0.65
-602257c6-e9d6-4b2c-8833-71d1bdbd77f3,Dr. Mirja Kohl,"KI, Stochastik, Schaltungstechnik",0.87,0.5,0.59,0.81,0.87,0.9,0.8,0.83,1.0,0.35,0.66,0.44,0.63
-e3c4e615-55e0-4108-98c5-c05b7837f396,Herr Elias Eimer,Leistungselektronik,0.67,0.5,0.73,0.99,0.82,0.65,0.46,0.64,0.63,0.53,0.65,0.85,0.84
-58780e31-3b15-4eb6-864e-f137e0744f29,Univ.Prof. Claudio Bruder B.A.,"Softwarearchitektur, KI, Statistische Mechanik, Quantenphysik",0.49,0.53,0.82,0.78,0.51,0.74,0.82,0.35,0.92,0.41,0.54,0.79,0.78
-1d4a06fd-3d22-4381-8b95-6dfde1813468,Ludwig Junk,Schaltungstechnik,0.84,0.37,0.99,0.96,0.74,0.68,0.92,0.81,0.72,0.89,0.38,1.0,0.7
-4eb6bf7e-27c5-4236-b445-f7187e2bc2a8,Britta Dietz-Lange,"FEM, CAD",0.91,0.95,0.84,0.83,0.32,0.36,0.7,0.36,1.0,0.85,0.83,0.74,0.95
-48ebd982-db3f-40bd-8acf-62cfffdb9766,Patrick Schenk B.A.,"Schaltungstechnik, Lineare Algebra, Numerik, Datenbanken",0.73,0.93,0.79,0.56,0.55,0.67,0.97,0.79,0.61,0.9,0.34,0.75,0.87
-7fcd0a5c-2f97-4485-bdf8-710751752a24,Bernhardine Heydrich,Schaltungstechnik,0.95,0.41,0.94,0.46,0.95,0.31,0.35,0.93,0.73,0.33,0.49,0.77,1.0
-24fbceb8-4510-4256-8784-011ab3edf89e,Thekla Birnbaum B.Sc.,"Statistische Mechanik, Optik",0.76,0.96,0.78,0.83,0.9,0.61,0.98,0.44,0.59,0.55,0.76,0.59,0.91
-e2941bb9-b916-4cd0-b3fc-aa4869617fa7,Trudel Ruppersberger-Stumpf,"Softwarearchitektur, Schaltungstechnik",0.6,0.92,0.35,0.98,0.51,0.91,0.84,0.85,0.83,0.83,0.51,0.69,0.68
-ca7de2f1-deb8-438b-8ef9-307653525c37,Prof. Gilda Steckel,"FEM, Schaltungstechnik, Statistische Mechanik",0.63,0.46,0.97,0.36,0.87,0.83,0.52,0.82,0.82,0.72,0.41,0.96,0.52
-4e24af6a-127e-46d8-afd6-182811389afc,Gerfried Davids,"Python, Softwarearchitektur",0.61,0.7,0.7,0.91,0.61,0.51,0.76,0.59,0.85,0.83,0.67,0.75,0.56
-1bd2fb26-898c-4342-ba90-0aac2da38d5c,Hans Jörg Jessel,Quantenphysik,0.7,0.99,0.58,0.39,0.61,0.68,0.44,0.51,0.89,0.76,0.88,0.83,0.65
-68bf580f-b0e5-4f26-9d85-bac4128fa69a,Amalia Junken,"Numerik, Softwarearchitektur, KI",0.61,0.65,0.57,0.82,0.48,0.88,0.39,0.47,0.91,0.95,0.41,0.61,0.93
-bac688b9-0c83-4131-bf30-c624616e54e9,Ria Blümel,"Softwarearchitektur, Signalverarbeitung",0.56,0.41,0.89,0.35,0.34,0.52,0.34,0.92,0.45,0.65,0.35,0.89,0.93
-64f8e089-9e5b-440c-82fe-658af4134629,Bianka Blümel,"Numerik, Python",0.42,0.44,0.96,0.89,0.46,0.79,0.55,0.42,0.65,0.41,0.58,0.51,0.99
-da6e4f94-9beb-4306-b643-85bbb70f87e0,Lucia Austermühle,Signalverarbeitung,0.67,0.76,0.71,0.43,0.85,0.59,0.81,0.3,0.46,0.88,0.4,0.36,0.33
-93bc58fb-e0f9-488f-8e18-dcb5055889da,Radmila Holsten B.Eng.,"Softwarearchitektur, Lineare Algebra, Schaltungstechnik",0.67,0.93,0.31,0.98,0.73,0.76,0.88,0.62,0.76,0.89,0.35,0.59,0.51
-2ebd8f60-d85a-426b-b1b6-7f782816b0f6,Almut Hövel,"Stochastik, CAD",0.99,0.52,0.32,0.9,0.34,0.43,0.75,0.4,0.96,0.58,0.55,0.86,0.89
-bf327375-5db2-4877-8559-acd99f727086,Betty Rogner,"Python, Schaltungstechnik",0.71,0.97,0.49,0.4,0.78,0.69,0.43,0.93,0.61,0.68,0.56,0.31,0.69
-e24e2034-2f3c-499d-9eb6-03ac4674bd17,Linda Ladeck,Lineare Algebra,0.94,0.44,0.53,0.36,0.33,0.82,0.97,0.52,0.51,0.97,0.93,0.47,0.98
-19378a99-e514-43d2-a603-6747aa51cb26,Adelbert Hofmann B.A.,Statistische Mechanik,0.59,0.31,0.47,0.44,0.9,0.76,0.95,0.74,0.77,0.69,0.66,0.4,0.94
-a872f395-38a8-43f6-8910-60ef51507975,Mariusz Trubin,KI,0.58,0.38,0.76,0.86,0.91,0.3,0.66,1.0,0.31,0.51,0.9,0.39,0.7
-5c098c64-82be-49ca-a027-06d4df814f0f,Hans Georg Hornich B.A.,"Softwarearchitektur, Lineare Algebra",1.0,0.45,0.79,0.96,0.89,0.44,0.67,0.59,0.82,0.42,0.83,0.37,0.89
-5c45c4cd-2fde-486b-9773-331c4cd666db,Karsten Bender,Numerik,0.44,0.49,0.61,0.42,0.67,0.38,0.84,0.95,0.78,0.38,0.74,0.93,0.6
-9d981313-daef-4894-a2cc-756e5fda97bb,Richard Buchholz,"Softwarearchitektur, Numerik, Schaltungstechnik, Optik",0.75,0.39,0.65,0.38,0.6,0.55,0.61,0.67,0.75,0.66,0.66,0.83,0.6
-f3100a30-e900-497a-a3df-84de838781e7,Univ.Prof. Hans Jürgen Ziegert B.Sc.,"FEM, Python",0.86,0.35,0.52,0.77,0.91,0.81,0.92,0.9,0.66,0.44,0.74,0.34,0.52
-45526a72-e8d8-47ce-bec6-41093b16292a,Heino Striebitz,Statistische Mechanik,0.85,0.45,0.84,0.94,0.52,0.92,0.66,0.6,0.72,0.76,0.8,0.37,0.94
-2f948575-f5ef-433b-8f3f-e7a25044681d,Käte Scheel,KI,0.46,0.6,0.95,0.49,0.94,0.41,0.98,0.3,0.34,0.8,0.8,0.48,0.44
-efbf84f1-dd49-416e-a713-88331fbc4e9a,Ing. Hans-Georg Scholz B.Sc.,"Statistische Mechanik, Thermodynamik",0.72,0.7,0.99,0.58,0.73,0.89,0.81,0.41,0.85,0.43,0.43,0.63,0.87
-865fbeca-9587-4f7b-8080-a48a3bee35ca,Ellen Bohnbach,"Quantenphysik, CAD",0.44,0.7,0.39,0.87,0.91,0.65,0.5,0.31,0.81,0.4,0.78,0.73,0.49
-6a623cc5-fd7a-4a76-9286-2cbea4351e3e,Dipl.-Ing. Micha Trapp,"Optik, Stochastik, Statistische Mechanik, Schaltungstechnik",0.46,0.61,0.8,0.93,0.9,0.77,0.9,0.88,0.46,0.89,0.87,0.86,0.54
-4bda08fb-7b25-47f1-ad9b-9b66620e71a3,Svenja Ruppert,Numerik,0.7,0.36,0.94,0.84,0.46,0.68,0.37,0.38,0.32,0.95,0.61,0.31,0.5
-55e86bcc-cf70-40de-b9cf-be4c231856c9,Corinne Stoll,Softwarearchitektur,0.64,0.89,0.44,0.95,0.79,0.43,0.34,0.43,0.85,0.38,0.35,0.51,0.65
-b5843f35-6e17-466d-9157-7621ef996633,Bernd-Dieter Mohaupt,"Signalverarbeitung, CAD, Statistische Mechanik",0.45,0.88,0.32,0.73,0.69,0.7,1.0,0.42,0.6,0.95,0.97,0.5,0.72
-40ef6f08-ebe5-4354-b98a-58cca492ef6f,Frau Tanja Bonbach B.A.,"Stochastik, Thermodynamik, Leistungselektronik, Optik",0.76,0.65,0.35,0.42,0.68,0.47,0.66,0.64,0.48,0.5,0.56,0.76,0.98
-5be791d4-6036-4305-a4b1-cb3eed3fea27,Adelgunde Tintzmann,Leistungselektronik,0.49,0.77,0.72,0.4,0.62,0.35,0.35,0.78,0.82,0.61,0.72,0.71,0.75
-d8fa60a3-84fc-4d41-b237-b24477f77de7,Eggert Mosemann,"Optik, Softwarearchitektur, Python, CAD",0.85,0.65,0.45,0.48,0.85,0.61,0.72,0.67,0.69,0.72,0.77,0.98,0.49
-a211c3a8-4b61-4e38-abd8-4aa299d21f6e,Danuta Johann,Quantenphysik,0.84,0.74,0.85,0.32,0.62,0.46,0.74,0.78,0.31,1.0,0.35,0.8,0.85
-e42acda5-bbc2-44e7-9887-46db3bdc5b4d,Hans-Günter auch Schlauchin B.Sc.,"Quantenphysik, Datenbanken",0.83,0.89,0.55,0.95,0.73,0.65,0.97,0.74,0.32,0.73,0.89,0.88,0.77
-982df887-7872-4dd4-9d32-fb449fab514b,Univ.Prof. Henry Winkler,"Statistische Mechanik, KI, Lineare Algebra, Softwarearchitektur",0.79,0.36,0.38,0.9,0.58,0.6,0.7,0.31,0.89,0.89,0.98,0.76,0.65
-c9ad86b5-96b5-43b8-9117-d61e6adbca37,Rebekka Pruschke-Ruppert,"Lineare Algebra, Stochastik, KI",0.73,0.53,0.7,0.7,0.81,0.64,0.49,0.89,0.99,0.73,0.67,0.48,0.83
-921f00ae-8bb3-47d8-90f3-5656f09b980d,Birgitt Drewes,KI,0.81,0.65,0.96,0.98,0.41,0.43,0.82,0.6,0.31,0.53,0.86,0.8,0.57
-a8347ba2-6f70-4b8c-a06c-ee0f729dd512,Denise Beer,"Stochastik, Softwarearchitektur",0.76,0.64,0.34,0.86,0.95,0.89,0.54,0.9,0.62,0.7,0.46,0.77,0.45
-e9d8a8d0-7f90-4d4d-8b14-efaf288bf52a,Antoinette Neureuther,"Quantenphysik, Schaltungstechnik, Signalverarbeitung, Softwarearchitektur",0.75,0.65,0.34,0.83,0.67,0.36,0.53,0.63,0.8,0.34,0.82,1.0,0.71
-813ea1a6-c51b-4104-9b01-1a5cab2f57e8,Horst-Dieter Beyer-Jacob,"Numerik, Mechanik, Stochastik, Thermodynamik",0.98,0.87,0.8,0.92,0.92,0.83,0.63,0.52,0.72,0.39,0.39,0.58,0.82
-0cb880fe-0871-45ce-85c3-8b84bc1ac709,Leif Gierschner,"Quantenphysik, Python, Stochastik, Optik",0.85,0.5,0.31,0.69,0.5,0.71,0.52,0.68,0.57,0.77,0.73,0.45,0.55
-3e4a8ff2-739c-4b6d-8265-b404460a5e0d,Senol Hartung,"CAD, Softwarearchitektur, Leistungselektronik",0.68,0.35,0.32,0.83,0.32,0.58,0.92,0.62,0.95,0.65,0.45,0.88,0.4
-a5b500c6-157d-4bdb-8b50-2e6ca8f2d6bc,Mareen Säuberlich-Mohaupt,"Schaltungstechnik, Quantenphysik, Numerik, Lineare Algebra",0.76,0.76,0.31,0.79,0.57,0.66,0.59,0.6,0.71,0.62,0.76,0.31,0.79
-4b9d8ab4-ee97-4d88-b1ed-bcff5ff6e876,Dr. Hilma Wohlgemut B.Sc.,"Quantenphysik, Python",0.7,0.57,0.57,0.6,0.43,0.94,0.8,0.99,0.39,0.83,0.48,0.56,0.7
-135b3806-ef3c-4451-9809-4744cc93e105,Erwin Mitschke,"Schaltungstechnik, KI, FEM",0.99,0.69,0.46,0.43,0.82,0.43,1.0,0.33,0.43,0.47,0.57,0.72,0.35
-79d40828-f485-42da-8686-af28101e097a,Prof. Adolf Putz B.Eng.,"Signalverarbeitung, Quantenphysik, Statistische Mechanik",0.42,0.79,0.93,0.58,0.91,0.77,0.4,0.6,0.33,0.9,0.8,0.8,0.59
-d22b7b62-78ac-467c-b126-63523cb01dac,Nancy Ackermann,"Python, Numerik",0.78,0.64,0.77,0.65,0.39,0.4,0.76,0.74,0.39,0.48,0.52,0.64,0.43
-1a15bd68-b260-49e9-8011-89ea973ce3d8,Gülay Metz,"CAD, Leistungselektronik, Softwarearchitektur, Python",0.6,0.77,0.53,0.76,0.71,0.52,0.68,0.97,0.81,0.96,0.86,0.44,0.37
-25daafc9-726c-4d8b-86b8-834bdc77c9c1,Marc Ruppert,"Datenbanken, FEM, Mechanik",0.97,0.6,0.61,0.63,0.47,0.42,0.9,0.86,0.64,0.92,0.39,0.33,0.35
-2dd1a03c-1b5f-41c3-b2fe-85613ad393fb,Margot Bohnbach,"Schaltungstechnik, KI, Stochastik",0.55,0.82,0.64,0.54,0.69,0.52,0.52,0.61,0.54,0.67,0.68,0.53,0.34
-271726d6-25af-429d-8b48-2d070e874fc0,Halil Klotz,Signalverarbeitung,0.53,0.96,0.66,0.66,0.33,0.59,0.41,0.7,0.79,0.7,0.55,0.35,0.86
-d390bc5b-9eca-4709-be38-ce0a65edc3a6,Andrew Höfig MBA.,Stochastik,0.71,0.88,0.97,0.95,0.41,0.69,0.56,0.61,0.81,0.49,0.64,0.45,0.3
-e0251e97-664c-4f23-8552-5af9c03d406a,Hans-Eberhard Jessel,"Lineare Algebra, Softwarearchitektur",0.52,0.6,0.4,0.52,0.98,0.81,0.86,0.39,0.49,0.92,0.38,0.75,0.4
-20feb189-b3be-4ed7-972a-5b3faee1255a,Univ.Prof. Gert Jähn B.Eng.,FEM,0.71,0.77,0.69,0.5,0.69,0.6,0.69,0.74,0.48,0.65,0.49,0.49,0.4
-6f0c0f47-89fd-4e46-9897-b70bdb2da7dd,Tony Ackermann,"Thermodynamik, Statistische Mechanik, Numerik, CAD",0.74,0.7,0.58,0.95,0.31,0.65,0.73,0.73,0.6,0.85,0.52,0.59,0.7
-58820ea1-43e1-4dee-810a-57d9256c2d43,Meike Riehl-Wesack,"Softwarearchitektur, Quantenphysik, Statistische Mechanik",0.6,0.59,0.81,0.33,0.75,0.8,0.6,0.46,0.3,0.4,0.73,0.66,0.84
-0a7af769-5c31-403a-856a-2068fa1b0d84,Heinz-Otto Sontag-Kobelt,"Numerik, FEM",0.46,0.91,0.87,0.8,0.77,0.82,0.43,0.31,0.6,0.67,0.88,0.46,0.62
-4cefdad1-04c0-479e-b31f-7d436fe93624,Gabor Stahr,"Statistische Mechanik, Schaltungstechnik",0.76,0.37,1.0,0.62,0.36,0.44,0.64,0.91,0.68,0.81,0.42,0.5,0.41
-bafdf4f3-7ede-4d78-9994-d87eebd45e26,Stavros Dobes MBA.,Schaltungstechnik,0.68,0.98,0.85,0.33,0.97,0.38,0.44,0.39,0.98,0.86,0.85,0.37,0.52
-224facf0-dce2-4c66-bb0f-d2b6d04c79e6,Univ.Prof. Dogan Mans MBA.,"Schaltungstechnik, Statistische Mechanik, Datenbanken, Leistungselektronik",0.69,0.75,0.83,0.6,0.9,0.61,0.73,0.41,0.83,0.96,0.88,0.99,0.73
-fda5f70b-f9da-4b00-8866-f6033f554913,Othmar Langern,FEM,0.46,0.86,0.86,0.79,0.95,0.64,0.83,0.49,0.46,0.84,0.39,0.37,0.77
-301e7c80-1cd8-41f9-9e91-a559269df4ab,Univ.Prof. Margit Häring B.Sc.,"Mechanik, Thermodynamik, Numerik, Lineare Algebra",0.52,0.79,0.46,0.84,0.58,0.42,0.43,0.91,0.87,0.56,0.45,0.98,0.34
-f7291283-9ae0-4f07-91fc-f6f8a432f0cb,Dr. Detlef Schwital,"CAD, KI",0.54,0.85,0.52,0.91,0.58,0.96,0.34,0.69,0.56,0.51,0.84,0.95,0.76
-85f484c0-181b-448b-8ef2-15f61d4baff7,Jacob Bohnbach,"Statistische Mechanik, Softwarearchitektur, Numerik, Stochastik",0.7,0.63,0.33,0.75,0.41,0.49,0.69,0.53,0.35,0.62,0.73,0.96,0.66
-f0d76257-43a0-41bb-bed5-3370776ef9ff,Maya Jacob,"Python, KI, Leistungselektronik",0.54,0.81,0.74,0.65,0.38,0.78,0.52,0.36,0.43,0.33,0.63,0.44,0.31
-bd6ba2ea-8b2b-41b8-bfd7-9f390d5311db,Hans-Hermann Junck-Lindau,"Schaltungstechnik, Datenbanken",0.41,0.84,0.88,0.58,0.4,0.47,0.6,0.79,0.55,0.41,0.68,0.49,0.94
-410f6523-d53c-4388-84c1-97861c1acef2,Krystyna Linke,"FEM, Signalverarbeitung",0.81,0.54,0.7,0.31,0.82,0.69,0.81,0.77,0.59,0.47,0.69,0.97,0.75
-09f179b3-a67d-4793-a52d-9724f88f410c,Marietta Gude-Bachmann,"Numerik, Datenbanken",0.72,0.86,0.72,0.59,0.86,0.56,0.88,0.43,0.77,0.7,0.81,0.31,0.7
-eea48b52-f478-42e8-88fc-d252075106e0,Konstantin Biggen,"Lineare Algebra, Leistungselektronik",0.78,0.57,0.45,0.34,0.66,0.4,0.56,0.93,0.44,0.42,0.39,0.56,0.66
-ae3d50e2-4e04-405d-87de-5c7026601a43,Univ.Prof. Alicia Boucsein,"CAD, Mechanik, Python, Thermodynamik",0.44,0.6,0.57,0.42,0.9,0.67,0.7,0.95,0.47,0.69,0.85,0.38,0.49
-72728399-1bb4-464c-bdcc-786e46585a64,Anne-Kathrin Säuberlich B.Sc.,Signalverarbeitung,0.58,0.89,0.87,0.8,0.71,0.83,0.62,0.85,0.55,0.4,0.62,0.69,0.31
-da0c46df-2d8f-4a1c-b6c0-63ec92bd3ac3,Semra Werner,Numerik,0.65,0.57,0.35,0.76,0.59,0.64,0.95,0.84,0.87,0.32,0.8,0.39,0.67
-39c477c8-47ea-40ea-824c-d899efad2e3b,Prof. Alfons Weinhage MBA.,"Softwarearchitektur, Python",0.95,0.83,0.68,0.56,0.69,0.31,0.77,0.52,0.68,0.89,0.7,0.95,0.5
-0c94adcf-db54-4a61-becb-b1445e90d599,Dipl.-Ing. Carmelo Wieloch B.A.,"Quantenphysik, Numerik",0.66,0.36,0.89,0.91,0.62,0.9,0.56,0.59,0.61,0.83,0.98,0.45,0.95
-90eb5f5e-ea55-4999-b31a-0c23d6de0f5e,Ing. Lucie Gertz B.Eng.,"Quantenphysik, Stochastik, Mechanik, Numerik",0.79,0.67,0.45,0.51,0.75,0.73,0.46,0.3,0.99,0.99,0.49,0.75,0.57
-966aa39c-27b4-464e-8da8-7881ac95dab3,Univ.Prof. Yilmaz Ritter,Softwarearchitektur,0.46,0.55,0.71,0.56,0.63,0.36,0.4,0.97,0.76,0.62,0.97,0.63,0.67
-05b40cd0-1277-4acd-a40e-79fc6762f0e4,Reni Noack,"Numerik, Signalverarbeitung, Datenbanken, Softwarearchitektur",0.71,0.76,0.8,0.63,0.74,0.51,0.49,0.39,0.53,0.9,0.55,0.52,0.98
-c633858d-0e0e-4b1b-b2ba-c5ff7f24241d,Remo Trommler,Signalverarbeitung,0.45,0.62,0.49,0.86,0.72,0.73,0.37,0.79,0.5,0.39,0.53,0.87,1.0
-24e20bf6-ae60-4ddf-9573-ba656ef9f1fc,Enver Schaaf,"Stochastik, Statistische Mechanik, Optik",0.5,0.99,0.87,1.0,0.37,0.67,0.88,0.3,0.55,0.32,0.62,0.51,0.93
-81e1ce10-2a09-4c73-bd13-6304faebc6c9,Dipl.-Ing. Richard Gunpf,"Python, Mechanik",0.51,0.91,0.56,0.78,0.92,0.37,0.64,0.71,0.82,0.43,0.91,0.98,0.8
-195534ed-6159-4a8c-bb22-4ce5132bcaba,Evelin Kabus,"Thermodynamik, CAD, FEM",0.48,0.74,0.46,0.51,0.79,0.59,0.69,0.45,0.65,0.64,0.47,0.59,0.73
-861f5af1-5d85-4cea-8897-4cd6bb3a59c8,Dipl.-Ing. Leander Löwer B.Sc.,Stochastik,0.69,0.43,0.64,0.82,0.76,0.83,0.5,1.0,0.88,0.97,0.4,0.93,0.97
-7db9641c-c4f0-44f0-8cfc-ecafdb585a63,Nermin Gnatz,"Numerik, Quantenphysik, CAD, Softwarearchitektur",0.51,0.41,0.4,0.56,0.6,0.37,0.75,0.84,0.47,0.91,0.41,0.82,0.51
-ba5f2a2a-72b8-4c44-bea3-878ddce13c44,Marcel Sontag,Quantenphysik,0.55,0.57,0.63,0.95,0.6,0.47,0.93,0.98,0.7,0.9,0.73,0.74,0.48
-65fbe6e0-ca02-4248-aa70-7c9175a3c59e,Vera Ebert-Renner,CAD,0.64,0.51,0.75,0.39,0.96,0.6,0.63,0.58,0.98,0.73,0.62,0.47,0.95
-623cff95-7919-4a3f-97d0-79c4413ae3f5,Prof. Niklas Gerlach B.A.,KI,0.86,0.63,0.75,0.35,0.99,0.72,0.7,0.91,0.32,0.63,0.89,0.51,0.96
-fa7b3398-0def-48aa-a342-53ed066ba0a1,Dipl.-Ing. Marten Jäntsch,"Leistungselektronik, CAD",0.91,0.84,0.36,0.89,0.58,0.64,0.76,0.69,0.46,0.4,0.92,0.31,0.69
-a76da819-79ee-452b-b272-cb97a0e7dd5c,Herr Theo Barkholz B.Eng.,"Statistische Mechanik, Stochastik, Datenbanken, Softwarearchitektur",0.65,0.4,0.69,0.49,0.78,0.33,0.88,0.53,0.76,0.85,0.64,0.37,0.55
-2c2bfd57-f9bf-409e-9cf5-8bcce6f76dfe,Ing. Dusan Kramer B.Eng.,"Signalverarbeitung, Mechanik",0.83,0.48,0.6,0.51,0.67,0.33,0.85,0.83,0.31,0.77,0.42,0.68,0.67
-31de53dc-edfb-4dcb-b66f-54aed4a41efa,Dipl.-Ing. Joerg Drewes B.Sc.,"Softwarearchitektur, Stochastik",0.43,0.71,0.9,0.48,0.39,0.73,0.71,0.31,0.49,0.69,0.8,0.97,0.54
-946559b3-412a-45fa-82dd-09d9d95a0336,Eva Hettner B.Sc.,"Stochastik, Optik, Signalverarbeitung, Lineare Algebra",0.51,0.3,0.35,0.77,0.98,0.95,0.37,0.61,0.86,0.35,0.4,0.56,0.53
-ef451944-6fea-4f44-8177-180fd320008b,Oswin Klapp-Hövel,"Numerik, KI, Schaltungstechnik",0.77,0.97,0.59,0.31,0.81,0.36,0.54,0.95,0.77,0.71,0.81,0.38,0.73
-1c0d46cf-2833-4a3a-9848-c4d3dfd89fe1,Susan Wagner,"Signalverarbeitung, Datenbanken",0.63,0.85,0.52,0.76,0.73,0.65,0.62,0.91,0.43,0.42,0.77,0.44,0.94
-1d82cbe7-2523-4467-9a0c-25c32539982e,Roy Söding B.Eng.,"Stochastik, Mechanik, Leistungselektronik, FEM",0.5,0.53,0.52,0.51,0.85,0.68,0.74,0.71,0.73,0.83,0.48,0.4,0.95
-b2577e4f-8bd1-4056-b79b-58c271a21a9f,Carmine Kambs B.A.,"Statistische Mechanik, CAD, Numerik, Stochastik",0.88,0.62,0.81,0.89,0.41,0.93,0.45,0.98,0.32,0.34,0.49,0.64,0.37
-02339f37-8691-4696-82e1-f8d3b332d966,Dr. Jobst Sontag B.Eng.,KI,0.67,0.97,0.82,0.53,0.73,0.57,0.95,0.82,0.31,0.55,0.9,0.49,0.68
-951d3bc0-b7e7-4faa-bbc0-7c7b57d0ce59,Ingo Klemm,"Optik, CAD, Stochastik, Thermodynamik",0.92,0.61,0.48,0.85,0.49,0.49,0.95,0.73,0.33,0.59,0.8,0.51,0.45
-9a8d8435-7047-4478-841f-74b6fa77c568,Miguel Adolph MBA.,"Python, Signalverarbeitung, KI",0.92,0.81,0.39,0.76,0.79,0.78,0.66,0.31,0.57,0.5,0.77,0.65,0.5
-a7129d05-eebf-423a-bd68-8e0df4fb97e0,Frauke Jopich,"Leistungselektronik, CAD",0.96,0.83,0.36,0.58,0.33,0.96,0.59,0.89,0.54,0.61,0.32,0.45,0.47
-07f43ab5-3b2f-47da-a701-233eec6519d3,Ing. Clemens Tschentscher,"Quantenphysik, Thermodynamik, Schaltungstechnik, CAD",0.71,0.87,0.66,0.41,0.85,0.62,0.64,0.87,0.73,0.59,0.81,0.93,0.38
-44eac5d5-d5f9-455f-aa6c-57b1f2283a17,Hildegunde Geisler,"KI, Optik",0.81,0.61,0.81,0.9,0.39,0.33,0.57,0.41,0.59,0.59,0.52,0.38,0.79
-efa15db6-134f-455c-b4fa-5ac2ef58e8ee,Edmund Pärtzelt,"Softwarearchitektur, Quantenphysik, Schaltungstechnik",0.41,0.87,0.4,0.53,0.76,0.61,0.96,0.73,0.33,0.39,0.91,0.51,0.64
-ad8f6974-677f-4737-b316-03c0dae92cca,Univ.Prof. Meral Zahn B.A.,"FEM, Thermodynamik",0.67,0.89,0.97,0.72,0.42,0.98,0.75,0.73,0.83,0.53,0.42,0.54,0.37
-2063f9e3-f8eb-422d-97b0-18aae8d501ce,Univ.Prof. Nuray Rudolph,"Signalverarbeitung, Stochastik",0.76,0.54,0.86,0.45,0.39,0.66,0.41,0.33,0.86,0.44,0.84,0.65,0.84
-030b2653-50d6-4e21-84f3-7a91aa24735c,Adriane Roht B.Eng.,"Signalverarbeitung, Numerik",0.54,0.48,0.85,0.88,0.78,0.6,0.95,0.82,0.65,0.31,0.58,0.35,0.52
-33b55491-551a-402c-a467-e99001d2c156,Traute Lange,"Quantenphysik, KI, Python, Thermodynamik",0.47,0.66,0.8,0.44,0.76,0.86,0.47,0.44,0.39,0.75,1.0,0.49,0.36
-c16f0472-4e69-49e3-873c-c1c7b3d88738,Univ.Prof. Magret Bloch,Lineare Algebra,0.91,0.93,0.38,0.66,0.81,0.36,0.96,0.71,0.84,0.92,0.74,0.4,0.5
-32b9accd-e475-4d13-a0fd-c4c27fc29650,Erich Carsten,"CAD, KI, Optik, Signalverarbeitung",0.88,0.34,0.54,0.76,0.98,0.91,1.0,0.65,0.74,0.82,0.65,0.65,0.8
-7c8ef20d-d256-43fc-94eb-ca69077026c3,Heinz-Günter Anders,FEM,0.5,0.7,0.78,0.76,0.53,0.38,0.45,0.62,0.87,0.38,0.54,0.86,0.31
-fd19e729-1ac3-454c-a514-2dda065ade27,Marina Barkholz,"CAD, Thermodynamik",0.87,0.7,0.43,0.69,0.35,0.66,0.53,0.59,0.46,0.34,0.37,0.52,0.4
-3269aa7c-84ea-4d15-bc8e-6bcd917dafd3,Dipl.-Ing. Gerfried Davids MBA.,"Stochastik, Numerik, Schaltungstechnik",0.93,0.58,0.39,0.88,0.58,0.73,0.8,0.73,0.43,0.77,0.47,0.66,0.84
-16a8b105-b292-4678-92d3-2644dfe02503,Liane Seidel,Quantenphysik,0.85,0.7,0.96,0.91,0.83,0.37,0.95,0.52,0.48,0.54,0.82,0.71,0.46
-b6eb33c5-655b-4c2d-a9fd-ddab31c6f5f8,Ercan Gröttner,"Schaltungstechnik, Quantenphysik",0.73,0.77,0.75,0.48,0.7,0.43,0.61,0.65,0.97,0.81,0.47,0.32,0.94
-775fa52c-0c9e-46e6-85e0-7dbd9c93d04e,Natalija Kruschwitz,Statistische Mechanik,0.65,0.83,0.62,0.61,0.68,0.59,0.63,0.42,0.75,0.6,0.93,0.94,0.63
-36151da0-08ea-4ab3-a707-4b29565d21e5,Hilmar Reinhardt,"KI, Leistungselektronik",0.69,0.75,0.7,0.56,0.3,0.65,0.33,0.78,0.81,0.88,0.97,0.65,0.68
-43fcb6af-d9c8-467e-a56e-4089f71bc322,Michelle Rogner-Franke,"Leistungselektronik, Signalverarbeitung, Numerik, Quantenphysik",0.51,0.65,0.7,0.78,0.64,0.84,0.84,0.31,0.58,0.63,0.52,0.78,0.52
-f0f60a58-719c-4387-b97a-311ae8618157,Univ.Prof. Dagobert Ruppert MBA.,Quantenphysik,0.67,0.72,0.84,0.85,0.73,0.77,0.97,0.56,0.66,0.38,0.73,0.9,0.79
-c5f4f0fb-3a3e-47f7-a94d-4a835be76d2e,Gerda Rust,CAD,0.68,0.77,0.51,0.39,0.48,1.0,0.87,0.42,0.48,0.57,0.62,0.73,0.95
-4d1b125d-f9a5-4394-8316-16fb579f93d8,Melissa Kramer,Optik,0.86,0.99,0.94,0.88,0.71,0.93,0.82,0.61,0.47,0.9,0.67,0.7,0.87
-0ad9f478-aee9-43ab-8b57-1107348aa81f,Reiner Adolph-Graf,"Leistungselektronik, Statistische Mechanik, Thermodynamik",0.71,0.69,0.77,0.65,0.91,0.66,0.48,0.37,0.65,0.59,0.95,0.66,0.48
-bccbb4b8-d690-4e95-8321-57d759e736fb,Rochus Winkler,"Thermodynamik, CAD, Schaltungstechnik, Softwarearchitektur",0.51,0.76,0.68,0.74,0.79,0.4,0.36,0.65,0.71,0.67,0.42,0.75,0.32
-5ab0d4d9-9464-4c05-982d-af5d108c2088,Birgit Scheel B.A.,"Stochastik, Datenbanken, Thermodynamik",0.82,0.38,0.71,0.4,0.65,0.45,0.86,0.86,0.54,0.62,0.86,0.52,0.37
-ff2069fb-713f-44ba-8575-644312bc55c0,Prof. Claus Eberth,"Mechanik, Quantenphysik",0.91,0.39,0.68,0.68,0.93,0.57,0.54,0.75,0.98,0.96,0.54,0.94,0.9
-2cee5fc9-34ea-4196-bd38-8d1088352202,Bettina Zimmer,"CAD, Optik",0.79,0.79,0.94,0.75,0.85,0.47,0.33,0.36,0.5,0.94,0.46,0.84,0.81
-0a6de742-4d1b-457c-b767-b3b93a10839b,Dipl.-Ing. Franka Fröhlich B.Sc.,FEM,0.82,0.54,0.32,0.48,0.72,0.68,0.62,0.5,0.67,0.9,0.85,0.86,0.78
-efac22dd-b9ac-4ff3-b9e2-0d1787895c65,Dr. Almut Löffler B.Eng.,"Signalverarbeitung, KI",0.95,0.4,0.32,0.82,0.76,0.41,0.66,0.37,0.37,0.73,0.53,0.68,0.74
-48506970-48fc-4e9f-9a9a-6bffcf7e16f1,Roswitha Kühnert,FEM,0.91,0.31,0.74,0.85,0.86,0.39,0.66,0.94,0.97,0.87,0.99,0.92,0.72
-5e999125-c0ab-4d22-bacc-c3b127e101a0,Hans-Peter Mende,"Numerik, Stochastik, Thermodynamik, KI",0.66,0.77,0.88,0.75,0.82,0.75,0.54,0.43,0.82,0.68,0.77,0.35,0.71
-8098599a-bad1-44da-9bf5-9c2bc19a112d,Enno Mälzer,"Softwarearchitektur, Lineare Algebra, Leistungselektronik, Optik",0.57,0.38,0.74,0.97,0.99,0.95,0.76,0.76,0.51,0.66,0.37,0.46,1.0
-841eee39-eefe-4181-80b6-9a98bef78314,Dipl.-Ing. Friedhilde Scholl B.A.,"Lineare Algebra, Thermodynamik, Mechanik",0.5,0.7,0.72,0.91,0.52,0.39,0.6,0.35,0.89,0.74,0.91,0.4,0.8
-6464b5b3-2860-4eb5-bc14-091acb3a52fd,Veronique Gumprich,"Numerik, CAD, KI, FEM",0.74,0.54,0.54,0.93,0.42,0.9,0.96,0.4,0.94,0.71,0.52,0.62,0.98
-46f7a2ea-39cb-48c5-8734-39d0f7107af4,Nuray Adolph-Rogge,"CAD, Signalverarbeitung",0.63,0.41,0.94,0.92,0.31,0.6,0.82,0.76,0.92,0.85,0.95,0.66,0.53
-7ec54a3d-09a3-48f9-8146-03df9f34f9fc,Walter Gnatz,"Statistische Mechanik, Optik",0.54,0.71,0.93,0.73,0.45,0.38,0.51,0.41,0.51,0.44,0.95,0.4,0.51
+fb19ddd4-0db6-42ac-88cc-b48ff2aa4a96,Bruni Ziegert,"CAD, Mechanik, Stochastik",0.6,0.59,0.73,0.99,0.44,0.79,0.6,0.94,0.66,0.87,0.46,0.94,0.52
+6d0a51a9-219a-4941-9fe3-2a4a1ecad1a6,Tabea Hertrampf,"Optik, Numerik",0.46,0.49,0.57,0.34,0.62,0.32,0.67,0.46,0.91,0.92,0.4,0.94,0.81
+5dbdaa66-db2b-4dbc-941e-1301812f4551,Ivanka Schenk,"Datenbanken, Signalverarbeitung, Thermodynamik",0.97,0.87,0.45,0.64,0.58,0.85,0.51,0.68,0.69,0.76,0.41,0.74,0.4
+5776555e-a06e-4812-b6a5-7408d701e8b4,Kamil Hölzenbecher,"Python, KI, Optik, Numerik",0.4,0.85,0.48,0.43,0.69,0.92,0.87,0.5,0.46,0.4,0.98,0.44,0.78
+32221cb6-5552-4b31-97ee-c481deadac1a,Rosalinde Vollbrecht,Stochastik,0.73,0.36,0.83,0.63,0.6,0.32,0.38,0.65,0.5,0.63,0.77,0.8,0.76
+e1f2ec13-2188-42d1-b6b7-e33711daa342,Irma Drubin-Dowerg,"Statistische Mechanik, Stochastik, KI, Schaltungstechnik",0.97,0.33,0.55,0.34,0.77,0.67,0.87,0.87,0.82,0.44,0.55,0.68,0.53
+3ba66d44-1047-4bc3-ae33-e9d2a35ea055,Gesche Rogge,"Datenbanken, FEM, Quantenphysik, Optik",1.0,0.49,0.57,0.47,0.65,0.42,0.38,0.36,0.84,0.51,0.73,0.47,0.38
+05df1c37-c19e-4753-99a6-c97cf75fbb10,Enno Vogt,"Numerik, Softwarearchitektur",0.5,0.72,0.34,0.42,0.57,0.83,0.76,0.62,0.51,0.9,0.57,0.31,0.49
+a2415f05-7cc2-415a-83b8-46d217784845,Annelore Höfig,"Leistungselektronik, Optik, FEM, Signalverarbeitung",0.76,0.61,0.71,0.74,0.48,0.58,0.96,0.46,0.84,0.35,0.33,0.88,0.33
+48ac39be-1622-4748-88e9-02e281d7712a,Hildegart Caspar,Signalverarbeitung,0.43,0.32,0.3,0.73,0.62,0.88,0.52,0.87,0.51,0.63,0.68,0.9,0.74
+db046cce-20df-4c44-91f4-b219f7fbf2f7,Emma Höfig,"Lineare Algebra, Numerik, Schaltungstechnik",0.61,0.45,0.93,0.75,0.93,0.87,0.62,0.3,0.73,0.71,0.83,0.61,0.58
+3c02c8f4-b712-4a36-89b4-54204bff161d,Edward Kambs,Datenbanken,0.55,0.69,0.91,0.48,0.44,0.95,0.79,0.71,0.41,0.58,0.54,0.81,0.88
+1915e1e8-e30c-428d-8729-de94f5109bd7,Ramona Kaul,"Leistungselektronik, Python, Softwarearchitektur",0.96,0.68,0.43,0.49,0.36,0.84,0.81,0.77,0.93,0.91,0.36,0.88,0.53
+6ca3f3c5-c1a8-4235-a6f5-da734680b742,Dipl.-Ing. Mariana Gorlitz MBA.,"Quantenphysik, Python, Thermodynamik",0.43,0.94,0.69,0.96,0.32,0.74,0.89,0.56,0.88,0.38,0.69,0.4,0.78
+395bafd5-5705-462f-9d01-ac503112e682,Otto Junken,"CAD, Schaltungstechnik, Signalverarbeitung",0.76,0.33,0.63,0.81,0.93,0.44,0.65,0.86,0.98,0.34,0.51,0.42,0.56
+56163fa7-4bdd-4133-91e7-ea0ce68cdba1,Julian Berger,"Mechanik, FEM, Statistische Mechanik, Lineare Algebra",0.44,0.47,0.48,0.44,0.32,0.45,0.82,0.87,0.38,0.69,0.62,0.69,0.49
+fe025c3e-7eaf-4b04-a74a-ac69f12baad3,Janos Hertrampf,"Leistungselektronik, Python, Optik, Datenbanken",0.56,0.75,0.87,0.36,0.93,0.88,0.82,0.66,0.4,0.92,0.64,0.58,0.36
+6f6d07ac-0eda-4b0d-b7b7-d064cc5bc057,Kristiane Bolzmann,"KI, Stochastik",0.72,0.55,0.39,0.97,0.57,0.93,0.43,0.91,0.4,0.46,0.74,0.32,0.99
+f9a459af-5bf2-4783-910b-92edad32ed5d,Luise Fiebig,"FEM, Softwarearchitektur",0.49,0.59,0.92,0.37,0.33,0.58,0.88,0.45,0.4,0.45,0.77,0.86,0.69
+293fb53b-4c5b-488b-965e-cfa5dace7a0a,Theres Lübs,"Numerik, Lineare Algebra, Signalverarbeitung",0.66,0.99,0.39,0.55,0.96,0.43,0.86,0.72,0.91,0.37,0.67,0.91,0.35
+35a7c5ed-f5fc-49a1-893f-9a88969f77e8,Conny Buchholz,Thermodynamik,0.56,0.35,0.32,0.72,0.4,0.72,0.59,0.76,0.68,0.45,0.79,0.68,0.75
+75b04013-e6cd-4e68-a7c3-cbf67f919dad,Eggert Bähr,"Python, Quantenphysik, Mechanik, FEM",0.98,0.94,0.63,0.46,0.4,0.77,0.64,0.48,0.37,0.93,0.41,0.51,0.77
+141dd06d-f8d1-4b43-b7ef-b924821e6338,Dipl.-Ing. Miriam Cichorius B.A.,Schaltungstechnik,0.44,0.62,0.61,0.31,0.92,0.79,0.54,0.56,0.64,0.59,0.7,0.87,0.99
+97b12221-9b04-4551-9249-511729e0882e,Frau Mareike Ortmann,"Datenbanken, Stochastik, Signalverarbeitung",0.46,0.75,0.87,0.66,0.54,0.61,0.68,0.82,0.41,0.37,0.44,0.62,0.77
+c2be2083-581f-497a-876d-2e8388bb7caa,Ljudmila Pergande,"KI, Numerik, Datenbanken, Quantenphysik",0.49,0.74,0.62,0.63,0.31,0.91,0.55,0.48,0.84,0.47,0.87,0.77,0.61
+c88f0405-0364-4a4f-8025-62776f6cc369,Karina Gertz-Heß,"CAD, Statistische Mechanik, Optik",0.44,0.34,0.34,0.34,0.91,0.94,0.92,0.34,0.46,0.42,0.54,0.39,0.61
+2205ac84-aad6-4486-a1a3-98bdae3f4234,Nikola Koch,"Signalverarbeitung, CAD, Numerik, Stochastik",0.45,0.37,0.35,0.74,0.45,0.89,0.98,0.36,0.57,0.92,0.48,0.96,0.37
+a92e3022-557f-4a39-b002-65097d2e993f,Wolfgang Hornig,"Mechanik, Leistungselektronik",0.67,0.54,0.53,0.46,0.71,0.83,0.33,0.33,0.76,0.82,0.75,0.99,0.63
+0aea0821-3e44-4eab-87d8-f02ded4d0ab6,Marek Hornig,"Numerik, Optik",0.94,0.45,0.65,0.74,0.46,0.33,0.75,0.86,0.97,0.38,0.34,0.82,0.94
+607a5194-f9f5-4f33-9c08-f48e258a265c,Dr. Wolf-Rüdiger Hellwig,Python,0.59,0.33,0.48,0.3,0.57,0.63,0.45,0.63,0.53,0.36,0.6,0.82,0.74
+5f86c193-5b9f-46a9-bf92-9b7f6906495c,Dörthe Pruschke-Lehmann,"Thermodynamik, Signalverarbeitung, FEM, Schaltungstechnik",0.67,0.56,0.7,0.4,0.8,0.34,0.65,0.48,0.98,0.32,0.81,0.62,0.58
+13249088-8cb5-4fd2-979d-7a25db7d55f3,Annegrete Nohlmans,"Statistische Mechanik, Python, Stochastik, Softwarearchitektur",0.93,0.82,0.85,0.92,0.45,0.6,0.43,0.76,0.41,0.76,0.4,0.93,0.5
+929e1ac1-8472-4b37-a181-020551f993f6,Catharina Ditschlerin B.Eng.,"Mechanik, Python, FEM, Statistische Mechanik",0.41,0.46,0.54,0.61,0.7,0.75,0.41,0.6,0.97,0.8,0.72,0.34,0.82
+044a2aad-ae2c-49c1-b015-65902abca8dd,Traute Wohlgemut,"Optik, Softwarearchitektur",0.47,0.91,0.85,0.61,0.62,0.9,0.86,0.7,0.49,0.5,0.52,0.99,0.87
+ed92f92a-d100-44aa-a613-15a122486a45,Alwin Ziegert,Lineare Algebra,0.49,0.87,0.6,0.38,0.97,0.5,0.79,0.31,0.98,0.57,0.36,0.73,0.71
+9c95b47c-f5d9-4e16-97b1-6e41171f6a94,Edwin Martin,Lineare Algebra,0.94,0.97,0.59,0.99,0.41,0.77,0.63,0.35,0.74,0.97,0.83,0.68,0.36
+d84d6fe5-2e9d-46b0-9cfd-2c9d6912e47f,Prof. Pascale Werner B.A.,"Numerik, Quantenphysik",0.68,0.61,0.74,0.99,0.68,0.3,0.76,0.63,0.62,0.35,0.88,0.59,0.59
+8a7780d0-a07c-4f8e-9142-9eb533a8bedd,Hans-Georg Gierschner,"Thermodynamik, Leistungselektronik, Optik, Python",0.47,0.68,0.86,0.53,0.61,0.99,0.59,0.4,0.89,0.3,0.45,0.47,0.49
+90765981-f0d7-4ca0-b6cb-808865164014,Waldemar Schmidt,Signalverarbeitung,0.91,0.76,0.65,0.37,0.67,0.35,0.57,0.78,0.48,0.54,0.53,0.52,0.81
+721d02eb-659c-4429-9493-62c770588943,Friedo Ehlert B.A.,"Schaltungstechnik, Leistungselektronik, Numerik",0.82,0.99,0.34,0.76,0.8,0.37,0.57,0.81,0.33,0.46,0.86,0.79,0.32
+8936d6d4-1f26-47f4-8e9c-38bca286e0e6,Yasmin Ernst B.Eng.,"Mechanik, Stochastik",0.86,0.31,0.98,0.98,0.9,0.87,0.69,0.45,1.0,0.54,0.75,0.92,0.38
+13f2b3af-420f-4d51-8e07-56ca211b72a1,Cilly Budig,Schaltungstechnik,0.48,0.96,0.56,0.69,0.98,0.68,0.97,0.66,0.72,0.97,0.69,0.45,0.4
+869157dc-b6b0-46fc-9356-10eca4ff881d,Dipl.-Ing. Swetlana Ortmann,Signalverarbeitung,0.65,0.43,0.72,0.64,0.4,0.64,0.58,0.32,0.91,0.33,0.53,0.66,0.8
+77c6655f-eb54-48dc-9f58-2566ecdb37db,Armin Täsche MBA.,"Mechanik, Leistungselektronik",0.54,0.84,0.97,0.45,0.42,0.35,0.48,0.41,0.83,0.57,0.5,0.92,0.67
+24e11377-7679-49dc-935c-b7f5d93095bf,Renate Bolander-Roskoth,"Mechanik, Softwarearchitektur, FEM",0.57,0.97,0.91,0.69,0.73,0.35,0.56,0.75,0.76,0.73,0.53,0.65,0.85
+dcc99b0d-e795-4a63-b611-2e5079fd7eb0,Johann Karge,"Signalverarbeitung, Python",0.48,0.88,0.66,0.74,0.67,0.99,0.61,0.6,0.67,0.43,0.68,0.84,0.52
+2a9daff4-cc8c-4e74-a321-a98ecb49fea0,Isidor Beyer,Numerik,0.7,0.65,0.87,0.8,0.76,0.79,0.83,0.3,0.59,0.73,0.42,0.54,0.51
+42c00989-b170-4f07-987e-6d23fa7bc89e,Jeanette Mende MBA.,Numerik,0.55,0.59,0.79,0.69,0.77,0.48,0.96,0.33,0.86,0.36,0.39,0.91,0.54
+d086b5b7-8c36-4b3b-bcc2-8d69628efa3a,Arnfried Etzler B.Eng.,"Numerik, Thermodynamik, Signalverarbeitung, Stochastik",0.69,0.66,0.83,0.81,0.53,0.87,0.48,0.93,0.77,0.45,0.63,0.77,0.32
+ff2ee2fc-c78b-4eb6-9126-67effec1a349,Herr Gundolf Pruschke B.A.,Datenbanken,0.88,0.87,0.3,0.82,0.4,0.43,0.91,0.89,0.95,0.47,0.82,0.75,0.79
+915a3892-64d4-4a1d-9d65-846fe992b6a0,Prof. Benedikt Beyer,"KI, Signalverarbeitung, Thermodynamik, Optik",0.76,0.44,0.39,0.79,0.9,0.76,0.64,0.38,0.34,0.9,0.47,0.36,0.51
+3af18a9c-14a3-417f-a588-0c53804b0e81,Erich Heß,Quantenphysik,0.5,0.54,0.73,0.78,0.53,0.68,0.95,0.82,0.98,0.44,0.5,0.92,0.95
+ae7aaffe-a611-4291-8bd5-0823755e9514,Anne Jockel,"Python, Optik",1.0,0.79,0.87,0.49,0.41,0.84,0.48,0.74,0.61,0.51,0.8,0.39,0.75
+027c1093-ef9e-407e-8ed2-7269c67a56a2,Cordula Binner,"Optik, Mechanik, Signalverarbeitung",0.6,0.96,0.47,0.73,0.52,0.43,0.75,0.5,0.99,0.62,0.36,0.95,0.95
+16927894-38c2-4bde-98a7-90ca4605e339,Corinna Oderwald-Lehmann,"CAD, Datenbanken, Lineare Algebra, Optik",0.8,0.64,0.47,0.88,0.32,0.92,0.76,0.8,0.45,1.0,0.35,0.68,0.54
+f4bc043a-1f6f-4ed6-8fd4-a22caba3016f,Univ.Prof. Gotthilf Möchlichen,Statistische Mechanik,0.51,0.42,0.91,0.34,0.46,0.94,0.49,0.53,0.49,0.63,0.67,0.91,0.6
+8aab5bbc-eb70-42af-8634-4c25fe6bb2e5,Antoinette Döring-Henck,Numerik,0.83,0.58,0.82,0.74,0.63,0.3,0.98,0.62,1.0,0.64,0.38,0.87,0.53
+bc9fcba2-355d-413d-a0e4-c7ebf592c4ea,Leni Drubin,"KI, Thermodynamik, Statistische Mechanik, Quantenphysik",0.47,0.51,0.35,0.79,0.94,0.76,0.45,0.81,0.75,0.35,0.55,0.5,0.88
+ce1dbe0a-2b73-47c9-a53e-42007fee5992,Otmar Gorlitz,"Quantenphysik, Mechanik",0.53,0.9,0.67,0.37,0.84,0.44,0.4,0.78,0.34,0.89,0.99,0.73,0.47
+ccb474a6-c226-4d3f-a583-7b4fda6f3427,Eggert Lorch B.A.,Statistische Mechanik,0.96,0.63,0.65,0.94,0.55,0.42,0.99,0.51,0.42,0.34,0.76,0.99,0.63
+5f78a53a-0b24-4d8b-8fc7-a875c91fb7a7,Frau Carmine Roskoth,FEM,0.64,0.83,0.74,0.81,0.67,0.73,0.48,0.58,0.79,0.98,0.46,0.68,0.33
+de56091c-7485-4564-ad59-4de717ec299c,Ing. Mesut Schmidt MBA.,Leistungselektronik,0.77,0.49,0.67,0.85,0.32,0.46,0.93,0.98,0.72,0.92,0.63,0.46,0.35
+05f81e92-bdf4-4682-922c-8bed094238b1,Hans-Bernd Bohlander,Python,0.55,0.65,0.52,0.54,0.97,0.55,0.7,0.84,0.34,0.65,0.51,0.88,0.86
+f2eb38fa-1f18-48ed-971c-f99bb44227f4,Günther Mangold,Thermodynamik,0.44,0.88,0.94,0.5,0.87,0.67,0.38,0.82,0.89,0.68,0.91,0.88,0.31
+7c394cfe-5d3d-4ae5-bff2-9f3ffa426e85,Grzegorz Scholz,"Mechanik, KI, Lineare Algebra",0.46,0.78,0.75,0.44,0.48,0.57,0.5,0.52,0.39,0.75,0.61,0.31,0.85
+bdfe9446-5345-41e4-af94-16016e453066,Yasemin Löwer,"Stochastik, Leistungselektronik, Quantenphysik",0.54,0.92,0.75,0.61,0.65,0.3,0.87,0.4,0.64,0.88,0.87,0.31,0.86
+cd059a40-4f84-4991-b3d9-f001ba4e74a6,Prof. Magret Höfig,KI,0.92,0.57,0.59,0.83,0.78,0.46,0.67,0.62,0.56,0.63,0.74,0.42,0.99
+5bdaefd5-dd6a-44cf-ac6d-cb30b6c332ef,Balthasar Neuschäfer,"Optik, Statistische Mechanik, Thermodynamik",0.99,0.55,0.5,0.45,0.8,0.47,0.45,0.75,0.83,0.9,0.59,0.75,0.81
+90d41dde-77a5-4ba5-93a1-e347d20cfb55,Lissy Fischer,"Python, Lineare Algebra, Schaltungstechnik, KI",0.69,0.99,0.64,0.63,0.68,0.37,0.45,0.56,0.41,0.32,0.37,0.84,0.66
+0dde10e3-f490-4680-925b-cb3516f91947,Else Margraf,Optik,0.64,0.53,0.66,0.43,0.53,0.48,0.36,0.62,0.56,0.7,0.78,0.38,0.39
+ca5e9d56-e8e5-40f7-bade-7f75d6d625a6,Janko Weller,Numerik,0.46,0.75,0.41,0.62,0.69,0.91,0.37,0.39,0.62,0.73,0.8,0.78,0.48
+b2aa2b34-c4de-4d1d-96c1-b10bcf9bd456,Herr Guido Weitzel,Schaltungstechnik,0.51,0.73,0.38,0.65,0.99,0.95,0.33,0.88,0.86,0.9,0.73,0.4,0.76
+44d77148-5c54-4531-aa43-c732fe7fac1e,Sükrü Neureuther,"Softwarearchitektur, Datenbanken",0.99,1.0,0.55,0.59,0.58,0.5,0.6,0.87,0.6,0.31,0.36,0.69,0.96
+ea919e57-ce34-46c5-8513-560bb9d1890b,Margareta auch Schlauchin,"Python, Lineare Algebra, Quantenphysik",0.58,0.49,0.33,0.49,0.89,0.88,0.83,0.67,0.45,0.83,0.68,0.32,0.76
+a5eaddda-29ed-445d-85a2-74c73c56b69d,Janna Schleich,FEM,0.85,0.39,0.82,0.47,0.79,0.34,0.86,0.79,0.98,0.31,0.92,0.89,0.38
+4acbcb5d-3372-43c3-ab82-81606f192b99,Augustin Kuhl B.Eng.,"CAD, Signalverarbeitung, Quantenphysik, Leistungselektronik",0.79,0.9,0.7,0.32,0.73,0.39,0.63,0.46,0.43,0.31,0.71,0.76,0.36
+065a38f5-2fef-47b9-97b0-770cc9e763e3,Prof. Agata van der Dussen,"Softwarearchitektur, Python",0.96,0.36,0.93,0.77,0.51,0.97,0.35,0.44,0.37,0.72,0.63,0.62,0.45
+56d48577-5ee5-4e00-8a54-e917c54a38d4,Ing. Peggy Mans MBA.,"Datenbanken, FEM",0.8,0.76,0.66,0.85,0.39,0.46,0.41,0.56,0.53,0.6,0.46,0.53,0.76
+baee428b-357d-4f9f-9add-5ade937fb7ed,Eleonora Putz-Dehmel,Schaltungstechnik,0.74,0.51,0.53,0.74,0.74,0.82,0.77,0.67,0.9,0.36,0.65,0.33,0.71
+b0d830ce-75bc-44c6-adc5-45698ff0b248,Philipp Scholz-Oderwald,"KI, Quantenphysik, Mechanik",0.45,1.0,0.48,0.81,0.93,0.34,0.64,0.65,0.36,0.69,0.56,0.9,0.84
+93c0492b-4101-40f7-a1b0-4fa6ae420f70,Gerhild Beyer,"Thermodynamik, Optik, FEM",0.85,0.37,0.75,0.88,0.42,0.65,0.64,0.68,0.71,0.72,0.46,0.92,0.94
+b4584cf4-1019-4999-b31b-463c653fd5ad,Dipl.-Ing. Mariana Kostolzin B.Eng.,"FEM, Signalverarbeitung",0.88,0.8,0.73,0.58,0.79,0.89,0.6,0.76,0.71,0.3,0.86,0.96,0.72
+40ec09d6-8f54-4d68-9463-b6b1ef22a06f,Raphaela Pechel,"Datenbanken, Numerik",0.94,0.61,0.36,0.89,0.37,0.38,0.45,0.61,0.92,0.48,0.37,0.4,0.32
+31c9b040-7db1-425d-aff7-2200e19124d1,Mahmoud Mangold,Lineare Algebra,0.58,0.7,0.74,0.61,0.52,0.44,0.75,0.72,0.57,0.65,0.71,0.55,0.54
+f203d767-45aa-4e91-b434-1308ea05f3e9,Arne Conradi-Thanel,"CAD, Stochastik, Statistische Mechanik, Datenbanken",0.58,0.99,0.79,0.96,0.74,0.42,0.6,0.47,0.41,0.4,0.48,0.44,0.48
+2f4df311-89bf-4c1f-89b6-bd7879b6b0a2,Annerose Weitzel,"Mechanik, KI, Leistungselektronik",0.6,0.68,0.86,0.44,0.52,0.83,0.35,0.46,0.32,0.35,0.89,0.57,0.67
+57e641a1-91c2-40da-bc16-b589e3ac20a6,Kathy Birnbaum,"Softwarearchitektur, Mechanik, FEM",0.56,0.31,0.88,0.71,0.58,0.78,0.39,0.39,0.95,0.47,0.85,0.95,0.82
+b9105640-d01a-4d76-a057-ecea6836bf72,Hertha Krebs,Lineare Algebra,0.56,0.55,0.49,0.53,0.49,0.48,0.51,0.92,0.55,0.39,0.66,0.82,0.47
+0f03686e-b180-4e78-bcb5-b846ee01045f,Horst-Dieter Hänel,Mechanik,0.66,0.4,0.95,0.43,0.74,0.48,0.73,0.6,0.48,0.44,0.61,0.69,0.58
+fb0ef635-e68b-4934-a1d1-705a09bb60ec,Jolanda Dippel MBA.,"Softwarearchitektur, Mechanik, Lineare Algebra",0.54,0.64,0.65,0.78,0.85,0.93,0.36,0.94,0.73,0.51,0.36,0.8,0.8
+54d5e600-08d2-45d7-a157-cb0347364f09,Dr. Kemal Dowerg,"Lineare Algebra, Datenbanken, Statistische Mechanik, FEM",0.75,0.66,0.59,0.9,0.31,0.8,0.69,0.83,0.69,0.83,0.94,0.66,0.41
+782fed4c-0af0-433e-9189-7603931192f6,Mirko Buchholz,Lineare Algebra,0.55,0.57,0.46,0.38,0.69,0.54,0.49,0.77,0.49,0.98,0.42,0.95,0.59
+b3ea2207-1183-415f-af1d-0b8737caf0aa,Milos Mielcarek,FEM,0.95,0.37,0.36,0.79,0.58,0.76,0.68,0.56,0.5,0.87,0.56,0.56,0.92
+dc4df955-fda7-46bf-8de8-eb71c86cd800,Univ.Prof. Conrad Heidrich,"Quantenphysik, Schaltungstechnik",0.49,0.79,0.45,0.39,0.93,0.52,0.87,0.6,0.93,0.52,0.49,0.99,0.62
+67d6883e-9176-4819-84ce-dd1b9dcaac35,Korinna Weinhage,"Mechanik, Stochastik, Schaltungstechnik",0.98,0.81,0.96,0.86,0.49,0.3,0.74,0.98,0.54,0.6,0.41,0.51,0.98
+a24be81a-b85b-4b7b-8334-ffa339e51619,Prof. Hermann Josef Weinhage MBA.,Python,0.54,0.73,0.5,0.68,0.75,0.99,0.4,0.76,0.73,0.7,0.58,0.95,0.74
+d87b6f04-0de7-458e-805b-4072e611363b,Klaus-Dieter Spieß,Quantenphysik,0.9,0.61,1.0,0.56,0.65,0.94,0.38,0.99,0.61,0.69,0.49,0.3,0.8
+3c6429d1-f09c-429c-a63c-6e523fbc824d,Frau Paula Klingelhöfer,Optik,0.72,0.9,0.43,0.97,0.67,0.98,0.56,0.38,0.75,0.83,0.56,0.35,0.83
+113540a0-a9e6-4a4a-bed2-6dc2b24e4d79,Prof. Elma Fiebig MBA.,"Datenbanken, Numerik, Leistungselektronik",0.47,0.66,0.88,0.75,0.45,0.54,0.76,0.87,0.62,0.65,0.57,0.81,0.31
+e7dfdc13-c23d-4d9a-9387-3adfe0ddc42c,Wera Heß,"FEM, Softwarearchitektur, Optik, KI",0.5,0.45,0.52,0.34,0.47,0.63,0.64,0.86,0.98,0.33,0.66,0.82,0.77
+d8afb5ed-1760-4a8d-bc99-11aa9213dc9c,Dipl.-Ing. Traudl Hölzenbecher MBA.,"Schaltungstechnik, Python, Lineare Algebra, Signalverarbeitung",0.8,0.85,0.35,0.87,0.66,0.86,0.53,0.73,0.39,0.67,0.4,0.62,0.71
+095beee6-2b6e-4f61-86de-b4e084bebe7d,Thaddäus Rohleder,"KI, Statistische Mechanik",0.53,0.45,0.48,0.32,0.94,0.83,0.4,0.76,0.76,0.86,0.4,0.55,0.57
+d146c4d5-64e8-4e1e-8d29-d3d8f79db1ea,Judith Hänel B.Eng.,"Mechanik, Numerik",0.96,0.48,0.75,0.51,0.93,0.59,0.59,0.54,0.56,0.87,0.68,0.91,0.47
+e039a4c8-120a-42d9-95e4-2d51ae67de8f,Reinald Loos,"KI, Python, Optik, Quantenphysik",0.57,0.76,0.53,0.9,0.71,0.48,0.81,0.65,0.94,0.6,0.86,0.58,0.52
+37dfcd19-5653-4d30-b725-3345f16982d4,Annedore Striebitz,"KI, CAD, Signalverarbeitung",0.88,0.9,0.51,0.37,0.41,0.96,0.42,0.92,0.36,0.37,0.43,0.37,0.35
+29ef91df-1098-483e-b35a-6fbbaf9e4f05,Herr Guenter Fliegner,CAD,0.46,0.67,0.54,0.55,0.88,0.37,0.64,0.82,0.96,1.0,0.62,0.58,0.75
+cec80c4b-25cb-492c-9bd1-0aed574b75f5,Brigitte Henck,KI,0.89,0.73,0.98,0.81,0.62,0.92,0.59,0.4,0.56,0.57,0.61,0.78,1.0
+0d31e242-83b8-4109-906e-53c03a5e70b2,Angelika Scholl,"Softwarearchitektur, Optik",0.83,0.75,0.39,0.81,0.75,0.86,0.78,0.82,0.85,0.59,0.33,0.39,0.83
+1a6eb470-4b1d-456e-b4b5-6362a3b113ee,Katalin Reichmann,"Leistungselektronik, Softwarearchitektur, Optik, Quantenphysik",0.98,0.39,0.78,0.88,0.76,0.73,0.71,0.66,0.42,0.49,0.98,0.84,0.91
+3030c202-6936-4d67-aa58-244fa4b37922,Hans-Albert Knappe,"Quantenphysik, Thermodynamik",0.59,0.55,0.82,0.76,0.78,0.73,0.3,0.43,0.35,0.78,0.6,0.88,0.69
+30f01479-9d84-4a0c-8530-5b1f4455c03c,Lili Albers,"FEM, CAD, Schaltungstechnik",0.86,0.89,0.9,0.94,0.46,0.31,0.88,0.36,0.58,0.77,0.94,0.48,0.73
+53f9aff5-9b1b-434a-8a17-884ea089ee2d,Balthasar Faust,"Datenbanken, Schaltungstechnik",0.72,0.83,0.93,0.91,0.3,0.86,0.36,0.33,0.94,0.41,0.99,0.74,0.51
+4ced9d59-997a-459c-9dc4-5329a0dc8c61,Danielle Etzold MBA.,"Datenbanken, Stochastik, Quantenphysik",0.49,0.57,0.99,0.64,0.74,0.34,0.83,0.83,0.87,0.33,0.71,0.51,0.5
+b346bb57-f7bd-4692-a33e-878022c56cea,Rose Eigenwillig,Lineare Algebra,0.94,0.66,0.57,0.47,0.63,0.46,0.54,0.69,0.52,0.55,0.52,0.37,0.36
+00b596d4-7ef6-43d5-88d7-3c2ba80239af,Filippo Höfig-Schleich,Mechanik,0.44,0.76,0.66,0.37,0.8,0.76,0.36,0.77,0.72,0.83,0.97,0.93,0.9
+45700141-fbf7-4d9b-ba1f-d14026c5d864,Dipl.-Ing. Imre Krause B.Eng.,"Numerik, Quantenphysik",0.91,0.4,0.35,0.64,0.91,0.49,0.47,0.6,0.85,0.77,0.91,0.94,0.45
+a593f156-c169-4cfb-a3d9-4000121f49cc,Frau Lili Klotz,Schaltungstechnik,0.66,0.35,0.47,0.9,0.4,0.62,0.44,0.43,0.37,0.32,0.34,0.98,0.9
+db61fcb1-e554-415d-bee1-c67b414bc882,Andreas Schuchhardt,Numerik,0.53,0.97,0.66,0.47,0.31,0.64,0.51,0.9,0.57,0.93,0.94,0.65,0.46
+6f76745f-84a0-4f66-adc2-198aa080786d,Dipl.-Ing. Carlo Sontag B.Sc.,"Python, Schaltungstechnik, Numerik, Stochastik",0.77,0.86,0.8,0.49,0.47,0.88,0.76,0.96,0.4,0.86,0.94,0.91,0.76
+8b225916-eec6-4b08-914a-a4a7750caebc,Katharina Eimer,"KI, Leistungselektronik, Stochastik, Schaltungstechnik",0.69,0.86,0.33,0.94,0.89,0.6,0.51,0.65,0.6,0.53,0.83,0.42,0.35
+868eff75-297a-47c1-9a0b-df07ddd16dc4,Ljudmila Bruder,"FEM, Leistungselektronik, Python",0.51,0.76,0.42,0.72,0.37,0.93,0.65,0.91,0.56,0.64,0.32,0.89,0.42
+6cee309f-6fab-430c-8435-59b2d44c85b5,Friederike Schweitzer,"Leistungselektronik, Mechanik, Optik",0.93,0.81,0.76,0.97,0.73,0.62,0.55,0.73,0.68,0.31,0.76,0.38,0.64
+2891f11d-b262-408b-8ebe-9f902bbc951e,Reza Kade-Ackermann,"Mechanik, Lineare Algebra, FEM",0.67,0.43,0.97,0.38,0.62,0.77,0.91,0.35,0.51,0.6,0.38,0.79,0.44
+16157708-5b1a-4fa6-a295-5b09872bebc1,Jeanette Mude,"Numerik, Python, Stochastik, Datenbanken",0.95,0.9,0.6,0.42,0.41,0.78,0.43,0.33,0.89,0.4,0.45,0.3,0.3
+869bf68b-43a6-4d79-a2ab-f53ae995d10d,Siglinde Losekann-Gunpf,"Schaltungstechnik, Python, Statistische Mechanik, CAD",0.44,0.91,0.72,0.39,0.9,0.41,0.74,0.39,0.92,0.72,0.9,0.31,0.73
+d354f23b-86e2-4c64-b882-227d14b80509,Agatha Aumann,"Numerik, Leistungselektronik",0.75,0.32,0.6,0.78,0.92,0.6,1.0,0.61,0.36,0.81,0.42,0.77,0.56
+0249e986-6777-4e36-805c-d2b5c802ab29,Pasquale Kade,"FEM, Stochastik, CAD",1.0,0.34,0.72,0.99,0.5,0.42,0.41,0.89,0.44,0.55,0.37,0.49,0.61
+9257e635-6a94-4002-8943-7fda58be7bcb,Emmy Henck,"Datenbanken, Numerik, Thermodynamik, Optik",0.88,0.88,0.77,0.81,0.48,0.49,0.31,0.38,0.82,0.36,0.59,0.48,0.36
+a4f9743d-326a-4f3c-9274-b1943e8ab97b,Marius Butte,"Leistungselektronik, Lineare Algebra, Optik",0.83,0.53,0.59,0.73,0.63,0.8,1.0,0.49,0.59,0.78,0.49,0.53,0.8
+89740adf-12ac-4775-a78b-9e1c111977bc,Magdalena Kohl-Klapp,"Statistische Mechanik, Lineare Algebra, Stochastik, Python",1.0,0.69,0.46,0.34,0.56,0.34,0.82,0.77,0.88,0.3,0.56,0.74,0.98
+aa5f6086-bfc5-40d5-a105-d0b8e40ed1fa,Anna-Lena Atzler MBA.,"Statistische Mechanik, Stochastik, FEM, Datenbanken",0.41,0.75,0.62,0.46,0.94,0.56,0.56,0.36,0.35,0.94,0.91,0.59,0.61
+ed4c5f7a-9d60-4bd2-8840-4db980581b27,Anni Speer,Quantenphysik,0.76,0.88,0.57,0.79,0.63,0.81,0.68,0.43,0.51,0.63,0.61,0.4,0.81
+fb62cb13-2ff8-40a1-be63-bc04167aea70,Wojciech Tröst,Datenbanken,0.61,0.87,0.36,0.79,0.37,0.81,0.65,0.63,0.84,0.71,0.94,0.73,0.46
+67582217-4dbe-4adf-8502-2eafd167c4f4,Johan Anders B.Eng.,"Optik, Leistungselektronik",0.92,0.91,0.43,0.75,0.72,0.78,0.47,0.97,0.9,0.41,0.32,1.0,0.86
+e137fe6d-c82f-4295-9a5a-bf98b997f8ab,Michelle Weihmann-Preiß,Quantenphysik,0.53,0.74,0.92,0.93,0.7,0.63,0.82,0.5,0.33,0.88,0.44,0.61,0.9
+97cceb88-fc80-45a8-b46c-ef27c8016284,Rosina Stiebitz,"Statistische Mechanik, Schaltungstechnik",0.92,0.79,0.74,0.85,0.91,0.5,0.37,0.75,0.52,0.48,0.43,0.41,0.95
+e469a4d2-40f8-484f-9ca2-7757e73ae0f0,Nathalie Schlosser,Stochastik,0.52,0.53,0.36,0.38,0.65,0.62,0.9,0.73,0.42,0.48,0.36,0.72,0.95
+f3bd0a65-a291-4bb3-ba66-60a9f2a6d730,Univ.Prof. Nadeschda Fischer MBA.,"Optik, KI, Quantenphysik, Datenbanken",0.54,0.96,0.38,0.54,0.35,0.58,0.99,0.91,0.81,0.62,0.49,0.39,0.32
+34b33ab1-6b9e-48ad-a016-c52dda81db6f,Muharrem Dussen van-Knappe,"Stochastik, KI, Leistungselektronik",0.85,0.93,0.51,0.6,0.48,0.37,0.94,0.93,0.78,0.42,0.42,0.42,0.57
+4285163d-d1ea-487d-8507-700963b425e3,Ing. Herbert Löchel B.A.,"Softwarearchitektur, FEM, Thermodynamik, Signalverarbeitung",0.96,0.35,0.3,0.72,0.78,0.41,0.93,0.57,0.59,0.7,0.32,0.82,0.38
+015ed700-fd7c-45a3-87e2-288ac324863e,Mato Matthäi,"Datenbanken, Schaltungstechnik",0.76,0.49,0.83,0.93,0.45,0.77,0.58,0.67,0.97,0.5,0.73,0.41,0.89
+3c66a9b4-eae4-47f4-898c-7112c5b88e52,Ursula Schenk,"Signalverarbeitung, Thermodynamik, Schaltungstechnik",0.47,0.39,0.48,0.44,0.39,0.35,0.31,0.62,0.31,0.33,0.52,0.59,0.39
+ddd6328b-e2a1-4179-bcba-49b3a09a7c8b,Melissa Schulz,"Leistungselektronik, Datenbanken, Schaltungstechnik, KI",0.76,0.7,0.74,0.77,1.0,0.9,0.88,0.76,0.41,0.61,0.8,0.84,0.88
+55256a54-fa03-4292-a9f5-80cd1a8fe75d,Kay-Uwe Hermighausen,"Lineare Algebra, KI",0.66,0.95,0.47,0.92,0.56,0.66,0.65,0.93,0.52,0.31,0.32,0.44,0.99
+a7af2121-d81f-4612-8638-137f36db0e85,Ivanka Zahn-Eberhardt,Datenbanken,0.52,0.83,0.94,0.71,0.85,0.76,0.52,0.49,0.77,0.56,0.98,0.4,0.81
+dd4c299f-0c39-483b-a94a-858acf4aa352,Detlev Pergande B.Eng.,"Softwarearchitektur, Statistische Mechanik, Schaltungstechnik, FEM",0.72,0.43,0.4,0.31,0.59,0.47,0.41,0.61,0.64,0.88,0.35,0.68,0.53
+667aaf1b-ab98-4ff3-b273-79178d26d52a,Rabea Ullrich,FEM,0.51,0.44,0.66,0.36,0.55,0.94,0.62,0.63,0.51,0.77,0.73,0.54,0.46
+977f84f6-35f6-4f67-8d37-5fe31b376538,Dr. Rosmarie Lachmann B.A.,"Datenbanken, Leistungselektronik, Stochastik, Softwarearchitektur",0.41,0.62,0.55,0.38,0.71,0.84,0.35,0.5,0.65,0.83,0.7,0.33,0.8
+8c0f9cf9-f087-49bf-bcc3-7fea870f457d,Heribert Knappe,Mechanik,0.52,0.33,0.61,0.45,0.77,0.43,0.86,0.87,0.85,0.56,0.37,0.39,0.76
+7f07a31e-bff7-4864-86eb-6e15e2a3a30e,Undine Mitschke,"Thermodynamik, Mechanik, Schaltungstechnik",0.56,0.98,0.7,0.83,0.71,0.48,0.55,0.77,0.67,0.31,0.43,0.52,0.56

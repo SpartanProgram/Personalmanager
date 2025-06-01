@@ -1,4 +1,4 @@
-name: .cenv
+name: .personalverteilung
 channels:
   - defaults
   - conda-forge

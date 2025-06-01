@@ -62,7 +62,7 @@ git config --global user.name "-->Name<--"
    
    # Nach der Installation Python3.11 Umgebungen erstellen:
    conda env create -f environment.yml
-   conda activate .cenv
+   conda activate .personalverteilung
 ```
 
 ## Windowns Installation

@@ -7,6 +7,7 @@ Dieses Projekt implementiert ein KI-basiertes Zuordnungssystem zur automatisiert
 - Scoring-Modul zur Bewertung von Zuordnungen
 - Prüfung der zeitlichen Verfügbarkeit
 - Kombinierte Bewertung und Optimierung
+- Der Code wird in Jupyter Notebooks ausgeführt
 
 ## Tech Stack
 - **Python 3.11**, PyTorch, scikit-learn, Pandas, NumPy

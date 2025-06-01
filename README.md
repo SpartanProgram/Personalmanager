@@ -107,6 +107,28 @@ source .venv/bin/activate  # oder .\.venv\Scripts\activate auf Windows
 pip install -r requirements.txt
 ```
 
+## Ausführungsreihenfolge
+
+Die Analyse besteht aus drei Jupyter-Notebooks, die in folgender Reihenfolge ausgeführt werden sollten:
+
+1. **`/data/data.ipynb`**
+   - Erstellt:
+     - `personen.csv` – Personen mit Kompetenzen und Zeitbudget
+     - `teilaufgaben.csv` – Teilaufgaben mit Aufwand und benötigter Kompetenz
+
+2. **`/tests/scoreMatching.ipynb`**
+   - Liest:
+     - `/data/personen.csv`
+     - `/data/teilaufgaben.csv`
+   - Führt das Matching durch und speichert:
+     - `/tests/matching_ergebnis.csv`
+
+3. **`/visualizations/figures.ipynb`**
+   - Liest:
+     - `/tests/matching_ergebnis.csv`
+   - Erstellt eine Visualisierung:
+     - Balkendiagramm der zugewiesenen Aufwände je Teilaufgabe
+
 ## Lizenz
 
 Apache License 2.0 – siehe [LICENSE](https://gitlab.rz.htw-berlin.de/softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi/-/blob/master/LICENSE.txt?ref_type=heads).

@@ -148,4 +148,47 @@ dd4c299f-0c39-483b-a94a-858acf4aa352,Detlev Pergande B.Eng.,"Softwarearchitektur
 667aaf1b-ab98-4ff3-b273-79178d26d52a,Rabea Ullrich,FEM,0.51,0.44,0.66,0.36,0.55,0.94,0.62,0.63,0.51,0.77,0.73,0.54,0.46
 977f84f6-35f6-4f67-8d37-5fe31b376538,Dr. Rosmarie Lachmann B.A.,"Datenbanken, Leistungselektronik, Stochastik, Softwarearchitektur",0.41,0.62,0.55,0.38,0.71,0.84,0.35,0.5,0.65,0.83,0.7,0.33,0.8
 8c0f9cf9-f087-49bf-bcc3-7fea870f457d,Heribert Knappe,Mechanik,0.52,0.33,0.61,0.45,0.77,0.43,0.86,0.87,0.85,0.56,0.37,0.39,0.76
-7f07a31e-bff7-4864-86eb-6e15e2a3a30e,Undine Mitschke,"Thermodynamik, Mechanik, Schaltungstechnik",0.56,0.98,0.7,0.83,0.71,0.48,0.55,0.77,0.67,0.31,0.43,0.52,0.56
+7f07a31e-bff7-4864-86eb-6e15e2a3a30e,Undine Mitschke,"Thermodynamik, Mechanik, Schaltungstechnik",0.56,0.98,0.7,0.83,0.71,0.48,0.55,0.77,0.67,0.31,0.43,0.52,0.5
+
+2207b9a1-75b3-4e6d-9610-d591fbfa9689,Prof. Dr. David Schäfer B.A.,Mechanik,0.64,0.43,0.98,0.83,0.42,0.81,0.83,0.72,0.64,0.88,0.56,0.63,0.58
+74123572-4a24-4274-95e3-e530cd3ddb40,Prof. Dr. Julia Meyer,CAD,0.97,0.56,0.60,0.68,0.49,0.61,0.54,0.96,0.59,0.88,0.46,0.96,0.68
+929f346a-daa2-42e4-b64c-25c20fda60e4,Dr. Lena Neumann M.Sc.,"Robotik",0.87,0.91,0.49,0.40,0.35,0.71,0.80,0.71,0.43,0.71,0.43,0.58,0.48
+f70877aa-add6-4525-9cfc-0d9dae555d5a,Max Becker M.Sc.,"Bioinformatik",0.44,0.33,0.66,0.97,0.58,0.74,0.48,0.75,0.80,0.71,0.93,0.91,0.30
+503fc32c-6a74-4164-a91e-33765afdc2c1,Dipl.-Ing. Maja Schäfer M.Sc.,"Deep Learning",0.86,0.81,0.60,0.35,0.55,0.46,0.87,0.37,0.97,0.69,0.81,0.47,0.64
+7997b771-6ceb-40a9-9198-03ad2501c4a5,Leonard Becker M.Sc.,"Deep Learning",0.91,0.61,0.82,0.58,0.69,0.48,0.70,0.46,0.84,0.41,0.56,0.33,0.40
+8364bf45-2da9-4111-b08c-aeeddb813da4,Dipl.-Ing. Niklas Richter B.A.,Stochastik,0.65,0.36,0.59,0.61,0.82,0.74,0.36,0.93,0.69,0.39,0.71,0.71,0.49
+3eb9959c-e9ac-41c7-b7c1-6a07a8a1d13b,Sarah Krüger B.A.,Quantenphysik,0.33,0.52,0.32,0.42,0.57,0.66,0.34,0.72,0.57,0.68,0.52,0.67,0.39
+59f7e51a-67f7-4406-a2c0-fbaab47cbb5e,Dipl.-Ing. Laura Hartmann,"Statistische Mechanik",0.80,0.54,0.71,0.86,0.85,0.94,0.59,0.70,0.36,0.78,0.92,0.31,0.40
+99343c0d-8406-42ad-9f51-08fd3abea9e6,Prof. Dr. Sarah Schäfer,Bildverarbeitung,0.33,0.44,0.95,0.31,0.47,0.84,0.62,0.31,0.78,0.72,0.99,0.51,0.82
+e70bd0e6-71b9-4c12-be63-75785896b8a4,Emma Neumann Ph.D.,"Schaltungstechnik",0.55,0.72,0.40,0.46,0.42,0.67,0.40,0.43,0.86,0.35,0.86,0.40,0.84
+c633b523-8f13-4c40-a9b8-b56998bfa673,Niklas Krüger B.A.,Machine Learning,0.67,0.33,0.94,0.43,0.81,0.98,0.92,0.46,0.75,0.31,0.58,0.82,0.43
+213ad9f1-436d-4e1d-9a68-491ec125126d,Emma Bauer Ph.D.,Betriebssysteme,0.31,0.55,0.87,0.92,0.45,0.43,0.67,0.33,0.40,0.59,0.67,0.62,0.86
+244bff22-f60a-4de5-b6f2-469b31bf465b,Dipl.-Ing. Lukas Hoffmann M.Sc.,"Werkstoffwissenschaft",0.70,0.54,0.92,0.32,0.84,0.39,0.63,0.89,0.79,0.39,0.75,0.34,0.43
+3f89f963-9ec8-41cc-bd55-de4a8f52ddaa,Hannah Wolf Ph.D.,"Schaltungstechnik",0.91,0.51,0.91,0.98,0.50,0.49,0.31,0.68,0.33,0.76,0.43,0.84,0.67
+be6d41f0-73e1-4f89-8b47-7bb99bfc161a,Dr. Jonas Koch M.Sc.,"FEM, Python",0.74,0.62,0.34,0.36,0.91,0.33,0.45,0.70,0.52,0.62,0.49,0.42,0.72
+5c8c3819-8e73-4ec8-9963-daf886958bae,Laura Schneider,"Optik, Thermodynamik",0.57,0.48,0.69,0.79,0.89,0.75,0.67,0.53,0.91,0.44,0.77,0.59,0.68
+d4fbbf81-2f1d-4d67-9e03-01e1ca954019,Paul Wolf,"Regelungstechnik, FEM",0.44,0.60,0.81,0.50,0.52,0.68,0.58,0.92,0.72,0.34,0.87,0.41,0.73
+b2d8c87d-e097-4b35-8a9c-71c4f00e18d1,Max Weber Ph.D.,"Robotik, KI",0.62,0.97,0.91,0.40,0.54,0.83,0.48,0.61,0.65,0.77,0.53,0.49,0.84
+ee99e1b2-5e97-4b5b-a3ed-20129f362f22,Dr. Maja Hartmann,"Datenbanken, Stochastik",0.39,0.33,0.59,0.82,0.54,0.75,0.39,0.70,0.58,0.69,0.91,0.79,0.37
+774f2fe8-029f-47b2-bf13-5cae8546e9d6,Dipl.-Ing. Felix Klein,"Mechanik, Optik",0.91,0.45,0.62,0.58,0.79,0.92,0.55,0.82,0.53,0.74,0.88,0.49,0.67
+370e3a0b-e6a4-4c51-b70e-c06bd1a88aee,Lena Wagner,"Numerik, FEM",0.73,0.81,0.35,0.93,0.52,0.66,0.47,0.80,0.60,0.39,0.64,0.56,0.90
+4a5d1b6e-8f5e-4ca6-a5ad-5f9df5f36e3a,Jonas Zimmermann,"Elektromagnetismus",0.50,0.68,0.55,0.46,0.69,0.47,0.91,0.41,0.36,0.57,0.72,0.88,0.62
+527eecbc-aa8e-4b02-b644-f0ed9d47f99c,Lisa Hoffmann,"Werkstoffwissenschaft, FEM",0.47,0.59,0.64,0.77,0.53,0.43,0.95,0.74,0.85,0.61,0.49,0.91,0.58
+a1b34c2d-8e9f-4f95-8f5b-67d80d506d47,Paulina Schäfer,"CAD, Regelungstechnik",0.86,0.52,0.49,0.81,0.90,0.73,0.40,0.59,0.77,0.62,0.35,0.83,0.41
+8f9d1b2c-3c6a-4ed7-8f97-2d0b2f9dc7e4,Tim Meyer,Signalverarbeitung,0.85,0.72,0.62,0.75,0.89,0.69,0.47,0.56,0.39,0.94,0.44,0.51,0.70
+c7bfee1a-6694-4f60-8f1c-5d5e9b34cf4c,Prof. Dr. Leon Müller,"Schaltungstechnik, Python",0.38,0.48,0.90,0.50,0.81,0.61,0.88,0.79,0.74,0.67,0.59,0.45,0.36
+d09f1c3e-7e5b-4cd7-9b16-099fc742d4b2,Emma Klein,Werkstoffwissenschaft,0.63,0.57,0.78,0.35,0.82,0.40,0.38,0.65,0.94,0.45,0.66,0.49,0.71
+f709bb1d-2a32-4e91-b191-3d1b9f09e2e1,Dr. Sophia Wolf,"Bildverarbeitung, KI",0.77,0.89,0.54,0.61,0.93,0.82,0.57,0.47,0.42,0.66,0.90,0.73,0.39
+1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f,Max Fischer,"Regelungstechnik, Datenanalyse",0.92,0.73,0.86,0.64,0.38,0.50,0.91,0.68,0.44,0.59,0.86,0.52,0.81
+2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a,Lena Bauer,"Quantenphysik, Optik",0.66,0.44,0.75,0.91,0.52,0.79,0.64,0.33,0.87,0.58,0.69,0.47,0.93
+3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b,Dipl.-Ing. Laura Klein,"Elektromagnetismus, Regelungstechnik",0.55,0.61,0.47,0.38,0.84,0.72,0.49,0.76,0.53,0.64,0.88,0.69,0.56
+4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c,Tim Schneider,"Betriebssysteme, Netzwerktechnik",0.42,0.52,0.79,0.66,0.60,0.87,0.39,0.90,0.45,0.34,0.71,0.58,0.82
+5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d,Hannah Hoffmann,"Mechanik, FEM",0.48,0.88,0.41,0.63,0.73,0.70,0.66,0.53,0.56,0.91,0.34,0.79,0.45
+6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e,Niklas Zimmermann,"Statistische Mechanik, Thermodynamik",0.35,0.61,0.32,0.55,0.88,0.93,0.41,0.84,0.47,0.75,0.63,0.51,0.67
+7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f,Prof. Dr. Paul Schneider,"Quantenphysik, Computational Linguistics",0.81,0.47,0.54,0.38,0.67,0.49,0.56,0.71,0.92,0.58,0.81,0.43,0.75
+8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a,Julia Krüger,"Datenbanken, Bilderverarbeitung",0.57,0.33,0.68,0.89,0.46,0.52,0.63,0.74,0.81,0.69,0.42,0.60,0.94
+9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b,Maja Richter,"Robotik, Werkstoffwissenschaft",0.82,0.77,0.50,0.36,0.85,0.65,0.47,0.91,0.41,0.58,0.53,0.66,0.38
+0f1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c,David Klein,"Mechanik, FEM",0.69,0.41,0.77,0.55,0.82,0.34,0.49,0.90,0.74,0.68,0.85,0.62,0.57
+1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,Lukas Schäfer,"CAD, Optik",0.78,0.36,0.42,0.59,0.93,0.48,0.81,0.52,0.88,0.75,0.33,0.71,0.46
+2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e,Sarah Neumann,"Kompu... [Die Ausgabe umfasst insgesamt 100 Zeilen; hier sind exemplarisch die ersten 40 sichtbart.] 
+

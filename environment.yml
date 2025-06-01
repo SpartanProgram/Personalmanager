@@ -4,7 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - pytorch=2.7.0
+  - pytorch=2.7.0 # CPU version. Die neuste version(2.7.0) funktioniert auf Windows noch nicht. Bitte Versionsnummer anpassen oder loeschen.
   - scikit-learn=1.6.1
   - faker=37.1.0
   - matplotlib=3.10.3

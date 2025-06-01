@@ -1,4 +1,4 @@
-torch==2.7.0
+torch==2.7.0 # CPU version. Die neuste version(2.7.0) funktioniert auf Windows noch nicht. Bitte Versionsnummer anpassen oder loeschen.
 scikit-learn==1.6.1
 Faker==37.1.0
 matplotlib==3.10.3

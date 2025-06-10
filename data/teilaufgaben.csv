@@ -1,9 +1,9 @@
 bezeichnung,kompetenz,aufwand,teilaufgabe_id,projekt_id,start,ende
-Entwurf CAD-Baugruppe,CAD,3.0,8e5fd33c-3245-4bf3-86ba-df14a6a064cb,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Simulation FEM-Struktur,FEM,2.5,79eca552-6b47-4036-b351-0ccbd93d6a3d,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Signalverarbeitung Sensor,Signalverarbeitung,2.0,e2c05276-7423-46aa-85ef-48f466f3eaca,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Entwicklung Python-Modul,Python,3.5,997fafd8-7280-49bc-ac63-188c60b3ec5f,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Statistische Auswertung,Stochastik,2.0,ec9afb2b-8c53-4b1c-ac80-96bb44eed62c,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Optische Analyse,Optik,1.5,229914b4-ef0f-4525-b98e-57edbde7ce2b,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Datenbankmodellierung,Datenbanken,2.0,aed64fa8-b557-4fa3-ac52-d6388712ca81,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
-Thermodynamische Bewertung,Thermodynamik,3.0,613f0601-c010-4d87-a93b-cd31a4525a28,5813550e-6c76-41e4-bdae-493d6b6ddfc2,03/2025,06/2025
+Entwurf CAD-Baugruppe,CAD,3.0,2e2055a3-33f3-4451-b94e-8effc05c681e,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Simulation FEM-Struktur,FEM,2.5,b217295a-9c66-4665-846c-ca6a6965ecb6,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Signalverarbeitung Sensor,Signalverarbeitung,2.0,4debe244-8b4d-4e2b-a0e8-8d9958e4df1b,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Entwicklung Python-Modul,Python,3.5,b63b6603-d3d9-4fe5-8879-8ea6ed07ef09,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Statistische Auswertung,Stochastik,2.0,7e685fac-bdf9-4944-94fa-7eff1ea78646,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Optische Analyse,Optik,1.5,c808c981-9b17-4cf8-b808-611ec34970f5,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Datenbankmodellierung,Datenbanken,2.0,0d080e93-e36c-4cca-957f-2bf2d6706145,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025
+Thermodynamische Bewertung,Thermodynamik,3.0,57f79eed-228c-43c3-8165-efb3960fa3f8,cc1dfefd-b91a-4155-bb52-7f15f701af9f,03/2025,06/2025

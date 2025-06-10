@@ -1,12 +1,12 @@
 teilaufgabe_id,teilaufgabe,projekt_id,kompetenz,person_id,name,zugewiesener_aufwand
-8e5fd33c-3245-4bf3-86ba-df14a6a064cb,Entwurf CAD-Baugruppe,5813550e-6c76-41e4-bdae-493d6b6ddfc2,CAD,0249e986-6777-4e36-805c-d2b5c802ab29,Pasquale Kade,2.32
-8e5fd33c-3245-4bf3-86ba-df14a6a064cb,Entwurf CAD-Baugruppe,5813550e-6c76-41e4-bdae-493d6b6ddfc2,CAD,16927894-38c2-4bde-98a7-90ca4605e339,Corinna Oderwald-Lehmann,0.68
-79eca552-6b47-4036-b351-0ccbd93d6a3d,Simulation FEM-Struktur,5813550e-6c76-41e4-bdae-493d6b6ddfc2,FEM,4285163d-d1ea-487d-8507-700963b425e3,Ing. Herbert Löchel B.A.,2.5
-e2c05276-7423-46aa-85ef-48f466f3eaca,Signalverarbeitung Sensor,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Signalverarbeitung,b4584cf4-1019-4999-b31b-463c653fd5ad,Dipl.-Ing. Mariana Kostolzin B.Eng.,2.0
-997fafd8-7280-49bc-ac63-188c60b3ec5f,Entwicklung Python-Modul,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Python,065a38f5-2fef-47b9-97b0-770cc9e763e3,Prof. Agata van der Dussen,2.6
-997fafd8-7280-49bc-ac63-188c60b3ec5f,Entwicklung Python-Modul,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Python,1915e1e8-e30c-428d-8729-de94f5109bd7,Ramona Kaul,0.9
-ec9afb2b-8c53-4b1c-ac80-96bb44eed62c,Statistische Auswertung,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Stochastik,8936d6d4-1f26-47f4-8e9c-38bca286e0e6,Yasmin Ernst B.Eng.,2.0
-229914b4-ef0f-4525-b98e-57edbde7ce2b,Optische Analyse,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Optik,1a6eb470-4b1d-456e-b4b5-6362a3b113ee,Katalin Reichmann,1.5
-aed64fa8-b557-4fa3-ac52-d6388712ca81,Datenbankmodellierung,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Datenbanken,ddd6328b-e2a1-4179-bcba-49b3a09a7c8b,Melissa Schulz,2.0
-613f0601-c010-4d87-a93b-cd31a4525a28,Thermodynamische Bewertung,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Thermodynamik,5dbdaa66-db2b-4dbc-941e-1301812f4551,Ivanka Schenk,2.58
-613f0601-c010-4d87-a93b-cd31a4525a28,Thermodynamische Bewertung,5813550e-6c76-41e4-bdae-493d6b6ddfc2,Thermodynamik,915a3892-64d4-4a1d-9d65-846fe992b6a0,Prof. Benedikt Beyer,0.42
+9bf12875-ffc6-46d5-ad8a-d6b0725f1d3b,Entwurf CAD-Baugruppe,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,CAD,5586ba56-23ab-48d6-a2c2-b96d987b6cbf,Univ.Prof. Luka Geisel,2.67
+9bf12875-ffc6-46d5-ad8a-d6b0725f1d3b,Entwurf CAD-Baugruppe,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,CAD,3da2f5af-95cb-4ac6-b865-bcd8199b11ac,Frau Milica Wieloch,0.33
+28081e4a-facf-4f04-82e9-dd5ad46c32c3,Simulation FEM-Struktur,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,FEM,557e0582-0a2e-4b94-a2d5-3928384e9bd5,Alicja Geißler,2.5
+24e13eb6-26cd-4348-b9dd-02fe513f66f5,Signalverarbeitung Sensor,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Signalverarbeitung,72133f28-0903-4e0a-bfb2-350d07841955,Ekkehard Gertz MBA.,2.0
+d5f66b4d-d8c8-4e70-8ecf-f5c53d3bc412,Entwicklung Python-Modul,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Python,eaf2e745-59d5-4598-9b39-96bbb089e88a,Herr Arnd Meister B.A.,3.07
+d5f66b4d-d8c8-4e70-8ecf-f5c53d3bc412,Entwicklung Python-Modul,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Python,54a3401a-8fb3-49ef-abff-b281ed1eb601,Semra Rosenow B.Eng.,0.43
+d1d778fa-b7fb-4ac3-9293-84ac38e653b7,Statistische Auswertung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Stochastik,c9f0b405-c8f1-43e8-9eea-c57e18005edd,Susana Hövel-Börner,2.0
+2cd33937-278d-4083-aaa5-650c9bbdb494,Optische Analyse,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Optik,4ef76531-1ed3-4e4c-a013-9a9bf736acd8,Gottlieb Tintzmann B.Sc.,1.5
+581d42fb-a9ca-42ac-8c9c-9b64b87e48ad,Datenbankmodellierung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Datenbanken,69f4e02b-8742-4579-980e-15902316595a,Univ.Prof. Wencke Stiffel,2.0
+c45d9fb9-7022-4b24-a0f7-e7ef6d129ea6,Thermodynamische Bewertung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Thermodynamik,ad6f3a46-a261-47c7-88dd-6c85399767ab,Freia Kobelt,2.82
+c45d9fb9-7022-4b24-a0f7-e7ef6d129ea6,Thermodynamische Bewertung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Thermodynamik,795e26c4-f8b0-4941-a4af-1f64cc8026fa,Dipl.-Ing. Roselinde Henk,0.18

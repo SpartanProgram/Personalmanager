@@ -1,12 +1,15 @@
-teilaufgabe_id,teilaufgabe,projekt_id,kompetenz,person_id,name,zugewiesener_aufwand
-9bf12875-ffc6-46d5-ad8a-d6b0725f1d3b,Entwurf CAD-Baugruppe,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,CAD,5586ba56-23ab-48d6-a2c2-b96d987b6cbf,Univ.Prof. Luka Geisel,2.67
-9bf12875-ffc6-46d5-ad8a-d6b0725f1d3b,Entwurf CAD-Baugruppe,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,CAD,3da2f5af-95cb-4ac6-b865-bcd8199b11ac,Frau Milica Wieloch,0.33
-28081e4a-facf-4f04-82e9-dd5ad46c32c3,Simulation FEM-Struktur,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,FEM,557e0582-0a2e-4b94-a2d5-3928384e9bd5,Alicja Geißler,2.5
-24e13eb6-26cd-4348-b9dd-02fe513f66f5,Signalverarbeitung Sensor,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Signalverarbeitung,72133f28-0903-4e0a-bfb2-350d07841955,Ekkehard Gertz MBA.,2.0
-d5f66b4d-d8c8-4e70-8ecf-f5c53d3bc412,Entwicklung Python-Modul,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Python,eaf2e745-59d5-4598-9b39-96bbb089e88a,Herr Arnd Meister B.A.,3.07
-d5f66b4d-d8c8-4e70-8ecf-f5c53d3bc412,Entwicklung Python-Modul,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Python,54a3401a-8fb3-49ef-abff-b281ed1eb601,Semra Rosenow B.Eng.,0.43
-d1d778fa-b7fb-4ac3-9293-84ac38e653b7,Statistische Auswertung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Stochastik,c9f0b405-c8f1-43e8-9eea-c57e18005edd,Susana Hövel-Börner,2.0
-2cd33937-278d-4083-aaa5-650c9bbdb494,Optische Analyse,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Optik,4ef76531-1ed3-4e4c-a013-9a9bf736acd8,Gottlieb Tintzmann B.Sc.,1.5
-581d42fb-a9ca-42ac-8c9c-9b64b87e48ad,Datenbankmodellierung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Datenbanken,69f4e02b-8742-4579-980e-15902316595a,Univ.Prof. Wencke Stiffel,2.0
-c45d9fb9-7022-4b24-a0f7-e7ef6d129ea6,Thermodynamische Bewertung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Thermodynamik,ad6f3a46-a261-47c7-88dd-6c85399767ab,Freia Kobelt,2.82
-c45d9fb9-7022-4b24-a0f7-e7ef6d129ea6,Thermodynamische Bewertung,aea4f4c5-0af1-47e6-bcb2-9d0280c3387f,Thermodynamik,795e26c4-f8b0-4941-a4af-1f64cc8026fa,Dipl.-Ing. Roselinde Henk,0.18
+teilaufgabe_id,teilaufgabe,projekt_id,kompetenz,person_id,name,zugewiesene_stunden,personentage
+2e2055a3-33f3-4451-b94e-8effc05c681e,Entwurf CAD-Baugruppe,cc1dfefd-b91a-4155-bb52-7f15f701af9f,CAD,3f9721df-d27b-4727-89e7-81a5dc1d7cb7,Annamaria Seip,388.79999999999995,48.6
+2e2055a3-33f3-4451-b94e-8effc05c681e,Entwurf CAD-Baugruppe,cc1dfefd-b91a-4155-bb52-7f15f701af9f,CAD,70655a4b-2913-47a0-a3a1-5ba16362d492,Herr Karl-August Schacht B.Sc.,91.20000000000005,11.4
+b217295a-9c66-4665-846c-ca6a6965ecb6,Simulation FEM-Struktur,cc1dfefd-b91a-4155-bb52-7f15f701af9f,FEM,167e628d-7276-4bc3-a4be-8b3d8a3b6d50,Thies Löwer,334.4,41.8
+b217295a-9c66-4665-846c-ca6a6965ecb6,Simulation FEM-Struktur,cc1dfefd-b91a-4155-bb52-7f15f701af9f,FEM,9c280ac1-bade-4af0-9460-e76bc30a0fe9,Dipl.-Ing. Bernd-Dieter Gröttner,65.60000000000002,8.2
+4debe244-8b4d-4e2b-a0e8-8d9958e4df1b,Signalverarbeitung Sensor,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Signalverarbeitung,70655a4b-2913-47a0-a3a1-5ba16362d492,Herr Karl-August Schacht B.Sc.,259.19999999999993,32.4
+4debe244-8b4d-4e2b-a0e8-8d9958e4df1b,Signalverarbeitung Sensor,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Signalverarbeitung,0dc915b5-8e12-4e0b-9bc6-7cf191a64edd,Dolores Becker-Hermighausen,60.80000000000007,7.6
+b63b6603-d3d9-4fe5-8879-8ea6ed07ef09,Entwicklung Python-Modul,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Python,3b2c7023-04d8-4ceb-8352-8cca136bd5e0,Frieder Carsten B.Eng.,348.79999999999995,43.6
+b63b6603-d3d9-4fe5-8879-8ea6ed07ef09,Entwicklung Python-Modul,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Python,6ca93ece-ee87-4e34-9a4b-c281b56ea429,Ramona Eberth,211.20000000000005,26.4
+7e685fac-bdf9-4944-94fa-7eff1ea78646,Statistische Auswertung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Stochastik,a503989a-c31e-46fe-b917-e5dc291f6ba9,Jonas Wulff,320.0,40.0
+c808c981-9b17-4cf8-b808-611ec34970f5,Optische Analyse,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Optik,f2aaf255-45eb-47eb-949d-9b5821894d27,Eugenie Henk B.Eng.,240.0,30.0
+0d080e93-e36c-4cca-957f-2bf2d6706145,Datenbankmodellierung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Datenbanken,99b6f72c-1ab0-45f3-bbd3-ae0bdbdbf83b,Ahmad Steinberg,265.6,33.2
+0d080e93-e36c-4cca-957f-2bf2d6706145,Datenbankmodellierung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Datenbanken,bfd9cce1-3549-4217-a22f-a2439a0e1cb2,Hannelore Junitz-Hartmann,54.39999999999998,6.8
+57f79eed-228c-43c3-8165-efb3960fa3f8,Thermodynamische Bewertung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Thermodynamik,967548cc-96c0-4beb-a56b-df3471d54930,Zdenka Dippel-Kusch,315.20000000000005,39.4
+57f79eed-228c-43c3-8165-efb3960fa3f8,Thermodynamische Bewertung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Thermodynamik,3e95e63b-1f17-4639-8bbb-fcbf12925bbb,Mandy Gröttner,164.79999999999995,20.6

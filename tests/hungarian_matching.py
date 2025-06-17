@@ -1,27 +1,21 @@
-import pandas as pd
+import time
 import numpy as np
 from scipy.optimize import linear_sum_assignment
-import random
-import math
-import time
 
-def calculate_person_score(person, ta, belegungen=None):
+def calculate_person_score(person, ta):
     """
-    Calculate person score for a task
+    Berechnet den Score für eine Person-Aufgabe Kombination
     """
-    if belegungen is None:
-        belegungen = {}
-        
-    ta_start = int(ta["start"].split("/")[0])
-    ta_ende = int(ta["ende"].split("/")[0])
+    # Basis-Score basierend auf Kompetenz-Match
+    base_score = 100 if ta["kompetenz"] in person["kompetenzen_liste"] else 0
     
-    # You'll need to implement this function or import it
-    # For now, let's use a simple score calculation
-    if ta["kompetenz"] in person["kompetenzen_liste"]:
-        score = person["zeitbudget"] * 10  # Simple scoring
-        return round(score, 2)
+    # Verfügbarkeits-Score (vereinfacht)
+    availability_score = 0
+    for col in person.index:
+        if col.startswith("verfuegbarkeit_"):
+            availability_score += person[col]
     
-    return 0
+    return base_score + availability_score * 0.1
 
 def hungarian_matching(teilaufgaben_df, personen_df):
     """
@@ -76,14 +70,3 @@ def hungarian_matching(teilaufgaben_df, personen_df):
     print(f"Total score: {total_score:.2f}")
     
     return matching_results, execution_time
-
-# Only run test if file is run directly
-if __name__ == "__main__":
-    # Test code here
-    personen_df = pd.read_csv("../data/personen.csv")
-    teilaufgaben_df = pd.read_csv("../data/teilaufgaben.csv")
-    personen_df["kompetenzen_liste"] = personen_df["kompetenzen"].str.split(r",\s*")
-    
-    # Test Hungarian Algorithm
-    hungarian_results, hungarian_time = hungarian_matching(teilaufgaben_df, personen_df)
-    print("Test completed!")

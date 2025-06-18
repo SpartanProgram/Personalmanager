@@ -85,7 +85,7 @@ Doppelklick auf die .exe-Datei und Setup durchlaufen
 
 # Python-Version
 
-Dieses Projekt verwendet Python 3.11. Falls du nicht mit Conda arbeitest und eine 
+Dieses Projekt verwendet Python 3.11. **Falls du nicht mit Conda arbeitest** und eine 
 andere Python-Version installiert hast, empfiehlt es sich, pyenv zu verwenden:
 
 pyenv installieren (falls noch nicht vorhanden)

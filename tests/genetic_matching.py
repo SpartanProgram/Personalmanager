@@ -74,7 +74,6 @@ def calculate_fitness(assignment, teilaufgaben_df, personen_df, belegungen=None)
             constraint_penalty += 200  # Penalty for insufficient availability
     
     # Calculate workload coverage bonus
-    assigned_workload = 0
     assigned_workload = sum(
         row["aufwand"]
         for i, (_, row) in enumerate(teilaufgaben_df.iterrows())

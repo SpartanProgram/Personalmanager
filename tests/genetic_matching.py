@@ -207,7 +207,14 @@ def genetic_algorithm_matching(teilaufgaben_df, personen_df, population_size=50,
         # Progress reporting
         if generation % 20 == 0 or generation == generations - 1:
             avg_fitness = np.mean(fitness_scores)
-            print(f"Generation {generation}: Best={best_fitness:.1f}, Avg={avg_fitness:.1f}")
+            worst_fitness = min(fitness_scores)
+            if best_fitness == worst_fitness:
+                best_grade = avg_grade = 1.0
+            else:
+                best_grade = 1.0
+                avg_grade = 1.0 + 4.0 * (worst_fitness - avg_fitness) / (worst_fitness - best_fitness)
+                avg_grade = min(max(avg_grade, 1.0), 5.0)
+            print(f"Generation {generation}: Best={best_fitness:.1f} (Note: {best_grade:.2f}), Avg={avg_fitness:.1f} (Note: {avg_grade:.2f})")
     
     # Convert best assignment to results format
     matching_results = []

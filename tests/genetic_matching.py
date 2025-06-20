@@ -74,12 +74,16 @@ def calculate_fitness(assignment, teilaufgaben_df, personen_df, belegungen=None)
             constraint_penalty += 200  # Penalty for insufficient availability
     
     # Calculate workload coverage bonus
-    assigned_workload = sum(ta["aufwand"] for i, ta in enumerate(teilaufgaben_df.iterrows()) 
-                          if assignment[i] < len(personen_df) and 
-                          ta[1]["kompetenz"] in personen_df.iloc[assignment[i]]["kompetenzen_liste"])
+    assigned_workload = 0
+    assigned_workload = sum(
+        row["aufwand"]
+        for i, (_, row) in enumerate(teilaufgaben_df.iterrows())
+        if assignment[i] < len(personen_df)
+        and row["kompetenz"] in personen_df.iloc[assignment[i]]["kompetenzen_liste"]
+    )
     total_workload = teilaufgaben_df["aufwand"].sum()
     coverage_bonus = (assigned_workload / total_workload) * 1000
-    
+
     return total_score + coverage_bonus - constraint_penalty
 
 def create_initial_population(population_size, num_tasks, num_people):

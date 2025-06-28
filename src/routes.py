@@ -4,6 +4,8 @@ from sqlalchemy import text
 from scipy.optimize import linear_sum_assignment
 import numpy as np
 from app.algorithm import berechne_zuweisungen_stundenbasiert
+import csv
+from flask import Response
 
 bp = Blueprint('routes', __name__)
 
@@ -227,3 +229,25 @@ def update_zuweisung():
 def route_zuweisungen_stundenbasiert():
     result = berechne_zuweisungen_stundenbasiert()
     return jsonify(result)
+
+# -------------------- Zuweisungen als CSV ausgeben --------------------
+@bp.route('/zuweisungen/export', methods=['GET'])
+def export_zuweisungen_csv():
+    zuweisungen = Zuweisung.query.all()
+
+    def generate():
+        header = ['Projekt', 'Aufgabe', 'Startmonat', 'Endmonat', 'Person', 'Kosten (Stunden)']
+        yield ','.join(header) + '\n'
+        for z in zuweisungen:
+            row = [
+                z.aufgabe.projekt.projektname,
+                z.aufgabe.aufgabe,
+                z.aufgabe.startmonat,
+                z.aufgabe.endmonat,
+                f"{z.person.vorname} {z.person.nachname}",
+                f"{z.kosten:.2f}"
+            ]
+            yield ','.join(row) + '\n'
+
+    return Response(generate(), mimetype='text/csv',
+                    headers={"Content-Disposition": "attachment;filename=zuweisungen.csv"})

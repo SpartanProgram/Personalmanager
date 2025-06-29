@@ -174,3 +174,10 @@ def berechne_zuweisungen_stundenbasiert():
                     "stunden": zugewiesen
                 })
 
+    # Versuche, die Zuweisungen in der DB zu speichern
+    try:
+        db.session.commit()
+        return {"message": "Stundenbasierte Zuweisungen gespeichert.", "anzahl": len(matching_ergebnisse)}
+    except Exception as e:
+        db.session.rollback()
+        return {"error": str(e)}

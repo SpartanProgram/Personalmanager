@@ -1,0 +1,9 @@
+teilaufgabe_id,teilaufgabe,projekt_id,kompetenz,person_id,name,zugewiesener_aufwand
+2e2055a3-33f3-4451-b94e-8effc05c681e,Entwurf CAD-Baugruppe,cc1dfefd-b91a-4155-bb52-7f15f701af9f,CAD,967548cc-96c0-4beb-a56b-df3471d54930,Zdenka Dippel-Kusch,3.0
+b217295a-9c66-4665-846c-ca6a6965ecb6,Simulation FEM-Struktur,cc1dfefd-b91a-4155-bb52-7f15f701af9f,FEM,167e628d-7276-4bc3-a4be-8b3d8a3b6d50,Thies Löwer,2.5
+4debe244-8b4d-4e2b-a0e8-8d9958e4df1b,Signalverarbeitung Sensor,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Signalverarbeitung,70655a4b-2913-47a0-a3a1-5ba16362d492,Herr Karl-August Schacht B.Sc.,2.0
+b63b6603-d3d9-4fe5-8879-8ea6ed07ef09,Entwicklung Python-Modul,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Python,3b2c7023-04d8-4ceb-8352-8cca136bd5e0,Frieder Carsten B.Eng.,3.5
+7e685fac-bdf9-4944-94fa-7eff1ea78646,Statistische Auswertung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Stochastik,a503989a-c31e-46fe-b917-e5dc291f6ba9,Jonas Wulff,2.0
+c808c981-9b17-4cf8-b808-611ec34970f5,Optische Analyse,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Optik,167e628d-7276-4bc3-a4be-8b3d8a3b6d50,Thies Löwer,1.5
+0d080e93-e36c-4cca-957f-2bf2d6706145,Datenbankmodellierung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Datenbanken,ad90a16f-352d-4cee-96ee-7f49cf913ba7,Mariechen Mies,2.0
+57f79eed-228c-43c3-8165-efb3960fa3f8,Thermodynamische Bewertung,cc1dfefd-b91a-4155-bb52-7f15f701af9f,Thermodynamik,967548cc-96c0-4beb-a56b-df3471d54930,Zdenka Dippel-Kusch,3.0

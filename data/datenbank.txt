@@ -1,0 +1,31 @@
+                                    Verfügbarkeit
+                    Kompetenz       2025    2026    2027
+1 Becker, Anna      A,B,H,I,J,N,O   2,00    1,00    2,00
+2 Wagner, Lukas     C,H,J           0,50    2,00    1,00
+3 Keller, Jonas     D,E,H,I,K       0,75    2,00    3,00
+4 Braun, Maria      D,F,G,J,L,M,O   2,00    4,00    3,00
+5 Schmid, David     G,K,L           0,25    2,00    2,00
+6 Hoffmann, Laura   G,L,M,O         0,50    4,00    1,50
+7 Vogel, Peter      E,I,M           3,00    0,25    0,50
+
+Projektdaten
+---
+Projektstart                01.09.2025
+Projektende                 31.08.2027
+---
+AP                  von         bis         PM
+A(quise)            01.09.25    31.10.25    0,50
+B(enchmark)         01.11.25    31.12.25    0,50
+C(I/CD)             01.12.25    31.01.26    0,50
+D(emonstrator)      01.12.25    31.01.26    2,00
+E(ntwicklung)       01.10.25    31.01.26    3,50
+F(einplanung)       01.06.26    31.04.27    1,00
+G(renzwertanalyse)  01.11.25    31.08.26    5,00
+H(ilfesystem)       01.07.26    31.08.27    5,00
+I(mplementierung)   01.12.26    31.06.27    3,00
+J(ustierung)        01.11.26    31.08.27    4,00
+K(onzeptionierung)  01.01.27    31.05.27    3,00
+L(abeling)          01.10.26    31.08.27    4,50
+M(L-Modellierung)   01.12.26    31.08.27    3,00
+N(achbearbeitung)   01.12.25    31.08.27    0,75
+O(ptimierung)       01.12.25    31.08.27    1,00

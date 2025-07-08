@@ -1,0 +1,5 @@
+*.ipynb linguist-language=Jupyter Notebook
+*.py linguist-language=Python
+*.html linguist-documentation
+/docs/** linguist-documentation
+/visualizations/** linguist-documentation

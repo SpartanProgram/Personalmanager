@@ -1,134 +1,109 @@
-# KI-gestützte Verteilung wissenschaftlichen Personals
+# 🤖 AI-Based Research Staff Assignment (Team 10 – HTW Berlin)
 
-Dieses Projekt implementiert ein KI-basiertes System zur automatisierten Verteilung von wissenschaftlichem Personal auf Forschungsprojekte. Die Verteilung erfolgt auf Basis von Kompetenzen, Verfügbarkeit und optional weiteren Kriterien.
+This project implements an **AI-powered system** to automatically assign academic staff to research tasks based on skills, availability, and optional constraints.
 
-## Funktionen
-- Extraktion relevanter Features aus Mitarbeiter- und Projektdaten
-- Scoring-Modul zur Bewertung von Zuordnungen
-- Prüfung der zeitlichen Verfügbarkeit
-- Kombinierte Bewertung und Optimierung
-- Der Code wird in Jupyter Notebooks ausgeführt
+Developed as part of the **Software Development Project (SoSe 2025)** at **HTW Berlin**, in collaboration with **GFaI** and **BVVI**.
 
-## Tech Stack
-- **Python 3.11**, PyTorch, scikit-learn, Pandas, NumPy
-- **Anaconda3**, **Visual Studio Code**, Jupyter Notebook
-- **Matplotlib, Seaborn** zur Visualisierung
-- **Faker** zur Generierung von Pseudo-Daten
+---
 
-## Projektstruktur
+## 🧠 Key Features
 
-```text
+- 🧠 Skill extraction from staff and task datasets
+- 📊 Scoring module for optimized task-person assignments
+- 📆 Availability checks for individuals
+- 🧮 Combined evaluation and optimization logic
+- 📓 Executed in modular **Jupyter Notebooks**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python 3.11
+- **Libraries**: PyTorch, scikit-learn, pandas, NumPy
+- **Visualization**: matplotlib, seaborn
+- **Tools**: Anaconda, Jupyter Notebook, VS Code
+- **Utilities**: Faker (for pseudodata generation)
+
+---
+
+## 🗂️ Project Structure
+
 team-10-personalmanager-gfai-bvvi/
-├── README.md              # Projektbeschreibung
-├── LICENSE.txt            # Lizenzinformation
-├── data/                  # Datensätze, Input- & Output-Dateien
-├── src/                   # Quellcode des Projekts
-├── tests/                 # Testfälle
-├── docs/                  # Projektbezogene Dokumentation
-├── visualizations/        # Grafiken zur Darstellung der Projektzuordnungen
-├── environment.yml        # Conda-Umgebung mit kompatiblen Python-Abhängigkeiten
-└── requirements.txt       # Liste der Python-Abhängigkeiten
-```
-## Projekinstallation
+├── README.md # Project overview
+├── LICENSE.txt # License file (Apache 2.0)
+├── data/ # Generated datasets (persons, tasks)
+├── src/ # Source code modules
+├── tests/ # Matching logic & test notebooks
+├── docs/ # Project documentation
+├── visualizations/ # Charts & assignment plots
+├── environment.yml # Conda environment
+└── requirements.txt # Python dependencies
 
-```bash
-# Clonen des Projektes per SSH
-git clone git@gitlab.rz.htw-berlin.de:softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi.git
-```
-```bash
-# Per Terminal oder VS-Code mit Git verbinden
-git config --global user.email "-->HTW-Mail-Adresse<--"
-git config --global user.name "-->Name<--"
-```
+Setup with Conda (Recommended)
 
-# 🐍 Anaconda Installation
-## Debian-Linux Installation
-```bash
-   sudo apt update && sudo apt upgrade -y
+wget https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+bash Anaconda3-2024.10-1-Linux-x86_64.sh
+source ~/.bashrc
 
-   # Anaconda-Installer herunterladen:
-   wget https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+# Setup environment
+conda env create -f environment.yml
+conda activate .personalverteilung
 
-   # Installation starten:
-   bash Anaconda3-2024.10-1-Linux-x86_64.sh
+Windows
+Download installer from:
+👉 https://www.anaconda.com/products/distribution
 
-   # Anweisungen folgen (Lizenz akzeptieren, Pfad bestätigen, conda init aktivieren)
+After installation:
 
-   # Shell neu laden:
-   source ~/.bashrc
+# In Anaconda Prompt
+conda info
+conda env create -f environment.yml
+conda activate .cenv
 
-   # Testen:
-   conda info
-   
-   # Nach der Installation Python3.11 Umgebungen erstellen:
-   conda env create -f environment.yml
-   conda activate .personalverteilung
-```
+🐍 Manual Setup (Without Conda)
 
-## Windowns Installation
-Offiziellen Installer herunterladen von:
-   https://www.anaconda.com/products/distribution
-
-Doppelklick auf die .exe-Datei und Setup durchlaufen
-- Für "Just Me" oder "All Users"
-- Option „Anaconda in PATH aufnehmen“ optional (empfohlen: Anaconda Prompt verwenden)
-```bash
-   # Nach der Installation:
-   # - „Anaconda Prompt“ oder „Anaconda Navigator“ starten
-   # - Test mit: 
-   conda info
-
-   # Nach der Installation Python3.11 Umgebungen erstellen:
-   conda env create -f environment.yml
-   conda activate .cenv
-```
-
-# Python-Version
-
-Dieses Projekt verwendet Python 3.11. **Falls du nicht mit Conda arbeitest** und eine 
-andere Python-Version installiert hast, empfiehlt es sich, pyenv zu verwenden:
-
-pyenv installieren (falls noch nicht vorhanden)
-Anleitung: https://github.com/pyenv/pyenv#installation
-```bash
-# gewünschte Version installieren
+# Using pyenv (if needed)
 pyenv install 3.11.9
-
-# lokal für dieses Projekt festlegen
 pyenv local 3.11.9
-```
 
-```bash
-# Virtuelle Umgebung erstellen
+# Create virtual environment
 python3.11 -m venv .venv
-source .venv/bin/activate  # oder .\.venv\Scripts\activate auf Windows
+source .venv/bin/activate  # Windows: .\.venv\Scripts\activate
 
-# Abhängigkeiten installieren
+# Install dependencies
 pip install -r requirements.txt
-```
 
-## Ausführungsreihenfolge
+📋 Execution Order
+data/data.ipynb
 
-Die Analyse besteht aus drei Jupyter-Notebooks, die in folgender Reihenfolge ausgeführt werden sollten:
+Generates:
 
-1. **`/data/data.ipynb`**
-   - Erstellt:
-     - `personen.csv` – Personen mit Kompetenzen und Zeitbudget
-     - `teilaufgaben.csv` – Teilaufgaben mit Aufwand und benötigter Kompetenz
+personen.csv – List of people with skills & availability
 
-2. **`/tests/scoreMatching.ipynb`**
-   - Liest:
-     - `/data/personen.csv`
-     - `/data/teilaufgaben.csv`
-   - Führt das Matching durch und speichert:
-     - `/tests/matching_ergebnis.csv`
+teilaufgaben.csv – Tasks with workload & required skills
 
-3. **`/visualizations/figures.ipynb`**
-   - Liest:
-     - `/tests/matching_ergebnis.csv`
-   - Erstellt eine Visualisierung:
-     - Balkendiagramm der zugewiesenen Aufwände je Teilaufgabe
+tests/scoreMatching.ipynb
 
-## Lizenz
+Reads:
 
-Apache License 2.0 – siehe [LICENSE](https://gitlab.rz.htw-berlin.de/softwareentwicklungsprojekt/sose2025/team-10-personalmanager-gfai-bvvi/-/blob/master/LICENSE.txt?ref_type=heads).
+personen.csv, teilaufgaben.csv
+
+Outputs:
+
+matching_ergebnis.csv – Matched task assignments
+
+visualizations/figures.ipynb
+
+Visualizes:
+
+Task distributions via bar charts
+
+👥 Team Members
+Zulfahmi Nur Vagala – Data processing, visualization, matching with genetic algorithm
+
+Sandin Taci – Scoring logic, data modeling, matching algorithm, visualization
+
+Mohand Alansari – Project structure, pseudodata generation, documentation
+
+📄 License
+This project is licensed under the Apache 2.0 License.

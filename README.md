@@ -99,7 +99,7 @@ Visualizes:
 Task distributions via bar charts
 
 👥 Team Members
-Zulfahmi Nur Vagala – Data processing, visualization, matching with genetic algorithm
+Zul Fahmi Nur Vagala – Data processing, visualization, matching with genetic algorithm
 
 Sandin Taci – Scoring logic, data modeling, matching algorithm, visualization
 

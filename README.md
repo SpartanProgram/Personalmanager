@@ -55,14 +55,14 @@ Download installer from:
 
 After installation:
 
-# In Anaconda Prompt
+In Anaconda Prompt
 conda info
 conda env create -f environment.yml
 conda activate .cenv
 
-🐍 Manual Setup (Without Conda)
+# 🐍 Manual Setup (Without Conda)
 
-# Using pyenv (if needed)
+Using pyenv (if needed)
 pyenv install 3.11.9
 pyenv local 3.11.9
 
@@ -73,7 +73,7 @@ source .venv/bin/activate  # Windows: .\.venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-📋 Execution Order
+# 📋 Execution Order
 data/data.ipynb
 
 Generates:
@@ -98,12 +98,12 @@ Visualizes:
 
 Task distributions via bar charts
 
-👥 Team Members
+# 👥 Team Members
 Zul Fahmi Nur Vagala – Data processing, visualization, matching with genetic algorithm
 
 Sandin Taci – Scoring logic, data modeling, matching algorithm, visualization
 
 Mohand Alansari – Project structure, pseudodata generation, documentation
 
-📄 License
+# 📄 License
 This project is licensed under the Apache 2.0 License.

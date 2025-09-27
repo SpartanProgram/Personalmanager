@@ -1,6 +1,6 @@
-# 🤖 AI-Based Research Staff Assignment (Team 10 – HTW Berlin)
+# 🤖 Staff Assignment (Team 10 – HTW Berlin)
 
-This project implements an **AI-powered system** to automatically assign academic staff to research tasks based on skills, availability, and optional constraints.
+This project implements an algorithm with optimization to automatically assign academic staff to research tasks based on skills, availability, and optional constraints.
 
 Developed as part of the **Software Development Project (SoSe 2025)** at **HTW Berlin**, in collaboration with **GFaI** and **BVVI**.
 
@@ -19,7 +19,7 @@ Developed as part of the **Software Development Project (SoSe 2025)** at **HTW B
 ## 🛠️ Tech Stack
 
 - **Languages**: Python 3.11
-- **Libraries**: PyTorch, scikit-learn, pandas, NumPy
+- **Libraries**: scikit-learn, pandas, NumPy
 - **Visualization**: matplotlib, seaborn
 - **Tools**: Anaconda, Jupyter Notebook, VS Code
 - **Utilities**: Faker (for pseudodata generation)
